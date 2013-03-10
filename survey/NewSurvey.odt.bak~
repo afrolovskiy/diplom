@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="131" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.9.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:ru-RU; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="151" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.9.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:ru-RU; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -15,8 +15,8 @@
 </metadata>
 <rdf>
 </rdf>
-<history version="12" edit-time="1498" last-saved="1362341193" uid="ff3f3ec6-843a-11e2-88bb-94ac780fa7ed">
-<version id="12" started="1362340020" uid="d84051f4-843d-11e2-88bb-94ac780fa7ed" auto="0" top-xid="5"/>
+<history version="9" edit-time="7498" last-saved="1362948378" uid="94229246-89b2-11e2-9ec2-8d88ee52d6b9">
+<version id="9" started="1362946082" uid="8ec49ac2-89c3-11e2-9ec2-8d88ee52d6b9" auto="0" top-xid="144"/>
 </history>
 <styles>
 <s type="P" name="Normal" followedby="Normal" props="font-family:Times New Roman; margin-top:0pt; margin-left:0pt; widows:2; text-align:left; text-indent:0in; color:#000000; font-weight:normal; margin-right:0pt; margin-bottom:0pt; line-height:1.000000; font-size:12pt"/>
@@ -24,131 +24,143 @@
 <s type="P" name="Text body" basedon="Normal" followedby="Text body" props="margin-bottom:0.0833in"/>
 <s type="P" name="Caption" basedon="Normal" followedby="Caption" props="margin-top:0.0833in; font-size:12pt; margin-bottom:0.0833in; font-style:italic"/>
 </styles>
-<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
-<section xid="11" props="page-margin-right:1.0000in; page-width:210.000000mm; page-margin-left:1.0000in; page-orientation:portrait; page-margin-bottom:1.0000in; page-margin-top:1.0000in; page-height:297.000000mm">
-<p style="Normal" xid="12" props="text-align:center"><c props="lang:ru-RU; font-size:16pt; font-weight:normal; font-family:Times New Roman; color:#000000">Введение</c></p>
-<p style="Normal" xid="13" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">	Распознование позы человека - процесс определения параметров тела (позы) человека на изображении.</c></p>
-<p style="Normal" xid="14" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">Этот раздел еще не написан, но в него будет входить следующее:</c></p>
-<p style="Normal" xid="15" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">1) Оопределение (что понимается под pose estimation).</c></p>
-<p style="Normal" xid="16" props="font-family:Times New Roman; margin-top:0.0000in; margin-left:0.0000in; dom-dir:ltr; text-align:left; text-indent:0.0000in; color:#000000; font-weight:normal; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">2) Возможные варианты применения (использования): </c><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">surveillance</c><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">, </c><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">control</c><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">, </c><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">analysis</c><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold"> =&gt; актуальность.</c></p>
-<p style="Normal" xid="17" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">3)Основные (общие) проблемы в данной области, если получится выделить что-то по истине общее.</c></p>
-<p style="Normal" xid="18" props="text-align:left">	Основными проблемами в данной области являются:</p>
-<p style="Normal" xid="19" props="text-align:left">1. многообразие внешностей (англ. variability of human visual appearance);</p>
-<p style="Normal" xid="7" props="text-align:left">2. многообразие условий освещения (англ. variability in lighting conditions);</p>
-<p style="Normal" xid="4" props="text-align:left">3. многообразие телосложений (англ. variability of human physique);</p>
-<p style="Normal" xid="5" props="text-align:left">4. частичные перекрытия, вызванные артикуляцией и наслоением объектов сцены (англ. partial occlusions due to self articulation and layering of objects in the scene);</p>
-<p style="Normal" xid="8" props="text-align:left">5. сложность структуры скелета человека (англ. complexity of human skeletal structure);</p>
-<p style="Normal" xid="9" props="text-align:left">6. большое число неизвестных (большая размерность) (англ. high dimensionality of the pose);</p>
-<p style="Normal" xid="10" props="text-align:left">7. невозможность полностью восстановить всю 3d информацию из результатов наблюдений (2d проекции на плоскость изображения) (англ. the loss of 3d information that results from observing the pose from 2d planar image projections);</p>
-<p style="Normal" xid="130" props="text-align:left">8. нет единого стандарта для представления выходных моделей, разные методы работают с разными моделями;</p>
-<p style="Normal" xid="131" props="text-align:left"><c></c></p>
-<p style="Normal" xid="129" props="text-align:left"><c></c></p>
-<p style="Normal" xid="20" props="text-align:left"><c></c></p>
-<p style="Normal" xid="21" props="text-align:left"><c></c></p>
-<p style="Normal" xid="22" props="text-align:center"><c props="lang:ru-RU; font-size:16pt; font-weight:normal; font-family:Times New Roman; color:#000000">Анализ движений человека</c></p>
-<p style="Normal" xid="23" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Система, занимающиеся анализом движений, обычно состоят из подсистем получения (англ. sensing) и обработки (англ. processing) данных.[1] Получение данных может быть при этом как активным, так и пассивным. В первом случае на отслеживаемый объект и вокруг него устанавливаются специальные устройства, позволяющие посылать и принимать сигналы. Такие устройства являются часто достаточно дорогостоящими, и область их использования является, как правило, обычно достаточно узко направленной. Устройства, основанные на пассивном получении данных, используют естественные источники сигналов, например, видимый свет и не требуют прикрепления/присоединения к объектам никаких специальных устройств. Исключением могут являться маркеры, прикрепленные к объектам. Они необходимы для упрощения обработки получаемых данных. Однако их использование не всегда удобно или является возможным в силу специфики решаемых задач. Одним из наиболее распространенных устройств, производящих пассивное получение данных, является видео-камера, которая и будет использоваться для получения входных данных в данной работе.</c></p>
-<p style="Normal" xid="24" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Типичные ограничения, накладываемые системами, могут быть разделены на 2 основные группы:</c></p>
-<p style="Normal" xid="25" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">) Ограничения движения (англ. movement assumptions)</c></p>
-<p style="Normal" xid="26" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">) Ограничения внешнего вида(англ. appearence assumptions)</c></p>
-<p style="Normal" xid="27" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Примеры ограничений каждого типа представлены в таблице 1.</c></p>
-<p style="Normal" xid="28" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><image dataid="0" xid="29" props="height:2.466153in; width:4.229167in"/></p>
-<p style="Normal" xid="30" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
-<p style="Normal" xid="31" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Функциональная структура систем, занимающихся анализом движений человека, представлена на рис.1.</c></p>
-<p style="Normal" xid="32" props="text-indent:1.50cm; text-align:center"><image dataid="1" xid="33" props="height:2.18in; width:1.31in"/></p>
-<p style="Normal" xid="34" props="text-indent:1.50cm; text-align:center">Рис. 1. Функциональная структура систем анализа движений человека</p>
-<p style="Normal" xid="35" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Работа таких систем в общем случае состоит их 4-х связанных меду собой этапов:</c></p>
-<p style="Normal" xid="36" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">1) Инициализация (англ. initialization)</c></p>
-<p style="Normal" xid="37" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">2) Отслеживание (англ. tracking)</c></p>
-<p style="Normal" xid="38" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">3) Определение позы (англ. pose estimation)</c></p>
-<p style="Normal" xid="39" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">4) Распознавание (англ. recognition)</c></p>
-<p style="Normal" xid="40" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Рассмотрим подробнее каждый из этих этапов.</c></p>
-<p style="Normal" xid="41" props="text-indent:1.50cm; text-align:center"><c></c></p>
-<p style="Normal" xid="42" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Инициализация</c></p>
-<p style="Normal" xid="43" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">Данный этап необходим для того, чтобы система начинала свою работу с правильным/корректным представлением текущей сцены.[2] Как правило, на данном этапе производятся следующие действия:</p>
-<p style="Normal" xid="44" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">1) калибровка камеры, </p>
-<p style="Normal" xid="45" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">2) настройка параметров сцены,</p>
-<p style="Normal" xid="46" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">3) инициализация модели.</p>
-<p style="Normal" xid="47" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">Часто параметры камеры известны заранее.  Они могут быть получены с помощью оффлайновой калибровки камеры. Настройки параметров сцены в основном относятся к ограничениям, накладываемым на внешний вид объекта, и используемым методам сегментации. Инициализация модели связана обычно с 2 вещами: инициализация позы объекта и модель (представления) объекта. В большинстве алгоритмов, как правило, для распознавания 3D позы человека используется типовая модель, которая содержит размеры конечностей и форму, приближенные к человеческим. Во время инициализации используются априорные знания о характерных особенностях человека такие, как кинематическая структура, 3D форма, цвет, поза, тип движения. </p>
-<p style="Normal" xid="48" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c props="font-weight:bold">Также можно сюда добавить про то, какую информацию и откуда можно почерпнуть...</c></p>
-<p style="Normal" xid="49" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c></c></p>
-<p style="Normal" xid="50" props="text-align:center; text-indent:1.50cm; dom-dir:ltr"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Отслеживание</c></p>
-<p style="Normal" xid="51" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">На данном этапе выполняется выделение и отслеживание людей на одном или более кадрах. [2] Состоит данный этап обычно из двух процессов:</c></p>
-<p style="Normal" xid="52" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1. </c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">Выделение фона и фигур(людей) (</c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">англ. figure-ground segmentation)</c></p>
-<p style="Normal" xid="53" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2. </c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">Временное соотношение</c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"> (англ. temporal correspondences)</c></p>
-<p style="Normal" xid="54" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Первый процесс связан с отделением объектов интереса (людей) от остального изображения (заднего фона). А второй - с ассоциированием обнаруженных людей в текущем кадре с теми, которые были на предыдущих кадрах и с определением временных траекторий их движения.</c></p>
-<p style="Normal" xid="55" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">Этот этап также можно рассмотреть подробнее ...</c></p>
-<p style="Normal" xid="56" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="57" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Определение позы</c></p>
-<p style="Normal" xid="58" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Процесс определения (распознавания) позы (англ. pose estimation) человека связан с определением параметров человеческого тела и/или отдельных его частей на заданной сцене. [1] Данный процесс может являться этапом постпроцессной обработки данных в алгоритме отслеживания или может быть непосредственно частью алгоритма отслеживания объектов.</c></p>
-<p style="Normal" xid="59" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">Дописать какую-нибудь воду ...</c></p>
-<p style="Normal" xid="60" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Существует 2 класса методов определения позы человека:</c></p>
-<p style="Normal" xid="61" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1) Методы на основе моделей (англ. Model-based methods)</c></p>
-<p style="Normal" xid="62" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2) Безмодельные методы (англ. Model-free methods)</c></p>
-<p style="Normal" xid="63" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Рассмотрим подробнее каждый из этих классов методов.</c></p>
-<p style="Normal" xid="64" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="65" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Методы на основе моделей</c></p>
-<p style="Normal" xid="66" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">В основе данных методов лежит какая-либо из моделей представления человеческого тела. Обычно различают следующие модели тела человека:</c></p>
-<p style="Normal" xid="67" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1) Кинематические модели (англ. kinematic models)</c></p>
-<p style="Normal" xid="68" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2) Модели формы (англ. shape models)</c></p>
-<p style="Normal" xid="69" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Большинство кинематических моделей описывают человеческое тело в виде кинематического дерева (англ. kinematic tree), состоящего из сегментов (частей), соединенных между собой шарнирами (англ. joint). Каждый шарнир характеризуется числом степеней свободы (англ.  number of degrees of freedom), показывающим в скольких направления шарнир может совершать движения. Совокупность всех степеней свободы модели формирует описание положения тела. Пример модели представлен на рис.2. Кинематические модели могут быть описаны как в 2D, так и в 3D. </c></p>
-<p style="Normal" xid="70" props="text-indent:1.50cm; text-align:center"><image dataid="2" xid="71" props="height:3.7875in; width:3.0028in"/></p>
-<p style="Normal" xid="72" props="text-indent:1.50cm; text-align:center">Рис. 2. Кинематическая модель части тела человека</p>
-<p style="Normal" xid="73" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2D кинематические модели хорошо подходят для анализа движений, параллельных плоскости изображения, и используются для анализа походки (англ. gait analysis). Такие модели имеют меньшее число параметров и накладывают двумерные ограничения на движения фигуры, представляемой нижележащей кинематической 3D моделью. Однако  они не могут задавать лимиты углов поворота шарниров и ограничения самопересечений (англ. self-occlusion) объектов, что делает их непригодны для использования в более сложных случаях.</c></p>
-<p style="Normal" xid="74" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">3D модели часто</c></p>
-<p style="Normal" xid="75" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="76" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="77" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="78" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="79" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Работа данных методов обычно состоит из двух этапов:</c></p>
-<p style="Normal" xid="80" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1) Моделирование</c></p>
-<p style="Normal" xid="81" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2) Оценка</c></p>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="4" props="page-margin-right:1.0000in; page-width:210.000000mm; page-margin-left:1.0000in; page-orientation:portrait; page-margin-bottom:1.0000in; page-margin-top:1.0000in; page-height:297.000000mm">
+<p style="Normal" xid="5" props="text-align:center"><c props="lang:ru-RU; font-size:16pt; font-weight:normal; font-family:Times New Roman; color:#000000">Введение</c></p>
+<p style="Normal" xid="6" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">	Распознование позы человека - процесс определения параметров тела (позы) человека на изображении.</c></p>
+<p style="Normal" xid="7" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">Этот раздел еще не написан, но в него будет входить следующее:</c></p>
+<p style="Normal" xid="8" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">1) Оопределение (что понимается под pose estimation).</c></p>
+<p style="Normal" xid="9" props="font-family:Times New Roman; margin-top:0.0000in; margin-left:0.0000in; dom-dir:ltr; text-align:left; text-indent:0.0000in; color:#000000; font-weight:normal; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">2) Возможные варианты применения (использования): </c><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">surveillance</c><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">, </c><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">control</c><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">, </c><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">analysis</c><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold"> =&gt; актуальность.</c></p>
+<p style="Normal" xid="10" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">3)Основные (общие) проблемы в данной области, если получится выделить что-то по истине общее.</c></p>
+<p style="Normal" xid="11" props="text-align:left">	Основными проблемами в данной области являются:</p>
+<p style="Normal" xid="12" props="text-align:left">1. многообразие внешностей (англ. variability of human visual appearance);</p>
+<p style="Normal" xid="13" props="text-align:left">2. многообразие условий освещения (англ. variability in lighting conditions);</p>
+<p style="Normal" xid="14" props="text-align:left">3. многообразие телосложений (англ. variability of human physique);</p>
+<p style="Normal" xid="15" props="text-align:left">4. частичные перекрытия, вызванные артикуляцией и наслоением объектов сцены (англ. partial occlusions due to self articulation and layering of objects in the scene);</p>
+<p style="Normal" xid="16" props="text-align:left">5. сложность структуры скелета человека (англ. complexity of human skeletal structure);</p>
+<p style="Normal" xid="17" props="text-align:left">6. большое число неизвестных (большая размерность) (англ. high dimensionality of the pose);</p>
+<p style="Normal" xid="18" props="text-align:left">7. невозможность полностью восстановить всю 3d информацию из результатов наблюдений (2d проекции на плоскость изображения) (англ. the loss of 3d information that results from observing the pose from 2d planar image projections);</p>
+<p style="Normal" xid="19" props="text-align:left">8. нет единого стандарта для представления выходных моделей, разные методы работают с разными моделями;</p>
+<p style="Normal" xid="20" props="text-align:left">9. малое количество статей, сравнивающих разные подходы к решению данной задачи;</p>
+<p style="Normal" xid="21" props="text-align:left">10. неопределенность глубины изображения (без использования специализированных камер, позволяющих определять расстояние до обозреваемых объектов);</p>
+<p style="Normal" xid="22" props="text-align:left">11. расплывчатость движений (англ. motion blur).</p>
+<p style="Normal" xid="23" props="text-align:left"><c></c></p>
+<p style="Normal" xid="24" props="text-align:left"><c></c></p>
+<p style="Normal" xid="25" props="text-align:left"><c></c></p>
+<p style="Normal" xid="26" props="text-align:center"><c props="lang:ru-RU; font-size:16pt; font-weight:normal; font-family:Times New Roman; color:#000000">Анализ движений человека</c></p>
+<p style="Normal" xid="27" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Система, занимающиеся анализом движений, обычно состоят из подсистем получения (англ. sensing) и обработки (англ. processing) данных.[1] Получение данных может быть при этом как активным, так и пассивным. В первом случае на отслеживаемый объект и вокруг него устанавливаются специальные устройства, позволяющие посылать и принимать сигналы. Такие устройства являются часто достаточно дорогостоящими, и область их использования является, как правило, обычно достаточно узко направленной. Устройства, основанные на пассивном получении данных, используют естественные источники сигналов, например, видимый свет и не требуют прикрепления/присоединения к объектам никаких специальных устройств. Исключением могут являться маркеры, прикрепленные к объектам. Они необходимы для упрощения обработки получаемых данных. Однако их использование не всегда удобно или является возможным в силу специфики решаемых задач. Одним из наиболее распространенных устройств, производящих пассивное получение данных, является видео-камера, которая и будет использоваться для получения входных данных в данной работе.</c></p>
+<p style="Normal" xid="28" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Типичные ограничения, накладываемые системами, могут быть разделены на 2 основные группы:</c></p>
+<p style="Normal" xid="29" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1) Ограничения движения (англ. movement assumptions)</c></p>
+<p style="Normal" xid="30" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2) Ограничения внешнего вида(англ. appearence assumptions)</c></p>
+<p style="Normal" xid="31" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Примеры ограничений каждого типа представлены в таблице 1.</c></p>
+<p style="Normal" xid="32" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><image dataid="0" xid="33" props="height:3.2868in; width:5.1944in"/></p>
+<p style="Normal" xid="34" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p style="Normal" xid="35" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Функциональная структура систем, занимающихся анализом движений человека, представлена на рис.1.</c></p>
+<p style="Normal" xid="36" props="text-indent:1.50cm; text-align:center"><image dataid="1" xid="37" props="height:2.18in; width:1.31in"/></p>
+<p style="Normal" xid="38" props="text-indent:1.50cm; text-align:center">Рис. 1. Функциональная структура систем анализа движений человека</p>
+<p style="Normal" xid="39" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Работа таких систем в общем случае состоит их 4-х связанных меду собой этапов:</c></p>
+<p style="Normal" xid="40" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">1) Инициализация (англ. initialization)</c></p>
+<p style="Normal" xid="41" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">2) Отслеживание (англ. tracking)</c></p>
+<p style="Normal" xid="42" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">3) Определение позы (англ. pose estimation)</c></p>
+<p style="Normal" xid="43" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">4) Распознавание (англ. recognition)</c></p>
+<p style="Normal" xid="44" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Рассмотрим подробнее каждый из этих этапов.</c></p>
+<p style="Normal" xid="45" props="text-indent:1.50cm; text-align:center"><c></c></p>
+<p style="Normal" xid="46" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Инициализация</c></p>
+<p style="Normal" xid="47" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">Данный этап необходим для того, чтобы система начинала свою работу с правильным/корректным представлением текущей сцены.[2] Как правило, на данном этапе производятся следующие действия:</p>
+<p style="Normal" xid="48" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">1) калибровка камеры, </p>
+<p style="Normal" xid="49" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">2) настройка параметров сцены,</p>
+<p style="Normal" xid="50" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">3) инициализация модели.</p>
+<p style="Normal" xid="51" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">Часто параметры камеры известны заранее.  Они могут быть получены с помощью оффлайновой калибровки камеры. Настройки параметров сцены в основном относятся к ограничениям, накладываемым на внешний вид объекта, и используемым методам сегментации. Инициализация модели связана обычно с 2 вещами: инициализация позы объекта и модель (представления) объекта. В большинстве алгоритмов, как правило, для распознавания 3D позы человека используется типовая модель, которая содержит размеры конечностей и форму, приближенные к человеческим. Во время инициализации используются априорные знания о характерных особенностях человека такие, как кинематическая структура, 3D форма, цвет, поза, тип движения. </p>
+<p style="Normal" xid="52" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c props="font-weight:bold">Также можно сюда добавить про то, какую информацию и откуда можно почерпнуть...</c></p>
+<p style="Normal" xid="53" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="54" props="text-align:center; text-indent:1.50cm; dom-dir:ltr"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Отслеживание</c></p>
+<p style="Normal" xid="55" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">На данном этапе выполняется выделение и отслеживание людей на одном или более кадрах. [2] Состоит данный этап обычно из двух процессов:</c></p>
+<p style="Normal" xid="56" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1. </c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">Выделение фона и фигур(людей) (</c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">англ. figure-ground segmentation)</c></p>
+<p style="Normal" xid="57" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2. </c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:italic">Временное соотношение</c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"> (англ. temporal correspondences)</c></p>
+<p style="Normal" xid="58" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Первый процесс связан с отделением объектов интереса (людей) от остального изображения (заднего фона). А второй - с ассоциированием обнаруженных людей в текущем кадре с теми, которые были на предыдущих кадрах и с определением временных траекторий их движения.</c></p>
+<p style="Normal" xid="59" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">Этот этап также можно рассмотреть подробнее ...</c></p>
+<p style="Normal" xid="60" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="61" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Определение позы</c></p>
+<p style="Normal" xid="62" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; color:#000000; font-family:Times New Roman; font-weight:normal; font-style:italic">Процесс определения (распознавания) позы (англ. pose estimation)</c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000; font-style:normal"> </c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">человека связан с определением параметров человеческого тела и/или отдельных его частей на заданной сцене. [1] Данный процесс может являться этапом постпроцессной обработки данных в алгоритме отслеживания или может быть непосредственно частью алгоритма отслеживания объектов.</c></p>
+<p style="Normal" xid="63" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Процесс формирования изображения может быть описан следующим образом:</c></p>
+<p style="Normal" xid="64" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Ф: Wc -&gt; Ic (1), </c></p>
+<p style="Normal" xid="65" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">причем процесс проецирования объектов сцены Wc на изображение Ic состоит из множества процессов, учитывающих освещение, перспективную модель, чувствительность камеры к свету, параметры 3d сцены и т.п. </c></p>
+<p style="Normal" xid="137" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Методы определения позы человека имеют элементы (компоненты) для выделения некоторых характеристик изображения, причем они способны выполнить фильтрацию входного изображения таким образом, чтобы все параметры, которые не влияют параметры тела, игнорировались. Положим. что Teta - параметры, определяющие положение тела, и Xi - пространство характеристик изображения. Тогда отображение множества параметров тела на множество характеристик изображения можно представить следующим образом:</c></p>
+<p style="Normal" xid="138" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">M(Teta[mx1]) -&gt; xi[nx1], где</c></p>
+<p style="Normal" xid="143" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Teta[mx1] - конкретный набор параметров тела, а xi[nx1] - конкретный набор характеристик изображения. </c></p>
+<p style="Normal" xid="144" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Заметим, что обратное отображение (которое  нас и интересует)  может быть как один-ко-многим , так и многие к одному. Например, из-за самоперекрытий различных частей тела и симметричных поз могут получаться идентичные наборы характеристик для разных наборов параметров тела. Примеры таких ситуаций продемонстрированы на рис.. </c></p>
+<p style="Normal" xid="146" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"></c><image dataid="2b3f238a-89c0-11e2-9ec2-8d88ee52d6b9" xid="148" props="height:2.8674in; width:5.0458in"/></p>
+<p style="Normal" xid="149" props="text-indent:1.50cm"><c>Возможна и обратная ситуация, когда из-за различий в одежде, форме тела и освещении могут получиться разные наборы характеристик для  одних и тех же параметров тела.</c></p>
+<p style="Normal" xid="150" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"></c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Существует 2 класса методов определения позы человека:</c></p>
+<p style="Normal" xid="68" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1) Методы на основе моделей (англ. Model-based methods)</c></p>
+<p style="Normal" xid="69" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2) Безмодельные методы (англ. Model-free methods)</c></p>
+<p style="Normal" xid="70" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Рассмотрим подробнее каждый из этих классов методов.</c></p>
+<p style="Normal" xid="71" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="72" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:14pt; font-weight:normal; font-family:Times New Roman; color:#000000">Методы на основе моделей</c></p>
+<p style="Normal" xid="73" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">В основе данных методов лежит какая-либо из моделей представления человеческого тела. Обычно различают следующие модели тела человека:</c></p>
+<p style="Normal" xid="74" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1) Кинематические модели (англ. kinematic models)</c></p>
+<p style="Normal" xid="75" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2) Модели формы (англ. shape models)</c></p>
+<p style="Normal" xid="76" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Большинство кинематических моделей описывают человеческое тело в виде кинематического дерева (англ. kinematic tree), состоящего из сегментов (частей), соединенных между собой шарнирами (англ. joint). Каждый шарнир характеризуется числом степеней свободы (англ.  number of degrees of freedom), показывающим в скольких направления шарнир может совершать движения. Совокупность всех степеней свободы модели формирует описание положения тела. Пример модели представлен на рис.2. Кинематические модели могут быть описаны как в 2D, так и в 3D. </c></p>
+<p style="Normal" xid="77" props="text-indent:1.50cm; text-align:center"><image dataid="2" xid="78" props="height:3.7875in; width:3.0028in"/></p>
+<p style="Normal" xid="79" props="text-indent:1.50cm; text-align:center">Рис. 2. Кинематическая модель части тела человека</p>
+<p style="Normal" xid="80" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2D кинематические модели хорошо подходят для анализа движений, параллельных плоскости изображения, и используются для анализа походки (англ. gait analysis). Такие модели имеют меньшее число параметров и накладывают двумерные ограничения на движения фигуры, представляемой нижележащей кинематической 3D моделью. Однако  они не могут задавать лимиты углов поворота шарниров и ограничения самопересечений (англ. self-occlusion) объектов, что делает их непригодны для использования в более сложных случаях.</c></p>
+<p style="Normal" xid="81" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">3D модели часто представляются в виде жестких (негибких) сегментов (отрезков) и разрешают вращение максимум в 3-х (ортогональных) направлениях в суставе. Для каждого из данных направлений вращения могут быть наложены </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ru-RU">индивидуально</c><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"> кинематические ограничения.</c></p>
+<p style="Normal" xid="151" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"></c></p>
 <p style="Normal" xid="82" props="text-indent:1.50cm"><c></c></p>
 <p style="Normal" xid="83" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="84" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">a) Моделирование</c></p>
-<p style="Normal" xid="85" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">поподробнее ..</c></p>
-<p style="Normal" xid="86" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">б) Оценка</c></p>
-<p style="Normal" xid="87" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Подходы:</c></p>
-<p style="Normal" xid="88" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">- Оценка сверху-вниз (Top-down estimation)</c></p>
-<p style="Normal" xid="89" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">- Оценка снизу-вверх (Bottom-up estimation)</c></p>
-<p style="Normal" xid="90" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">- Комбинированный</c></p>
-<p style="Normal" xid="91" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">поподробнее про каждый из них...</c></p>
-<p style="Normal" xid="92" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="93" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Классификация моделей человеческого тела (Human body models)</c></p>
-<p style="Normal" xid="94" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Кинематические модели (Kinematic models)</c></p>
-<p style="Normal" xid="95" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Модели формы (Shape models)</c></p>
-<p style="Normal" xid="96" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="97" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Описание изображения (image descriptors)</c></p>
-<p style="Normal" xid="98" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Силуэты и контуры (Silhouettes and contours)</c></p>
-<p style="Normal" xid="99" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Ребра (Edges)</c></p>
-<p style="Normal" xid="100" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- 3D модель (3D reconstruction)</c></p>
-<p style="Normal" xid="101" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Цвет и текстура</c></p>
-<p style="Normal" xid="102" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Перемещение (Motion)</c></p>
-<p style="Normal" xid="103" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Комбинация/Сочетание различных описаний (Combination of descriptors)</c></p>
-<p style="Normal" xid="104" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="105" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Ограничения камеры (Camera considerations)</c></p>
-<p style="Normal" xid="106" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="107" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Ограничения окружения (Environment considerations)</c></p>
-<p style="Normal" xid="108" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="109" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Оценка 3D (трехмерной) позы человека</c></p>
-<p style="Normal" xid="110" props="text-indent:1.50cm"><c></c></p>
-<p style="Normal" xid="111" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Motion priors</c></p>
-<p style="Normal" xid="112" props="lang:ru-RU; text-indent:1.50cm; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"><c></c></p>
-<p style="Normal" xid="113" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
-<p style="Normal" xid="114" props="lang:ru-RU; text-indent:1.50cm; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">Написать про каждый из этих методов подробнее, также описать их внутреннюю классификацию...</c></p>
-<p style="Normal" xid="115" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
-<p style="Normal" xid="116" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">4) Распознавание (англ. recognition)</c></p>
-<p style="Normal" xid="117" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Распознавание личности, действий, деятельности и поведения людей на одном и более кадрах.[2]</c></p>
-<p style="Normal" xid="118" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:16pt; font-weight:normal; font-family:Times New Roman; color:#000000">Заключение (Выводы)</c></p>
-<p style="Normal" xid="119" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">Какой вариант предположительно будем реализовывать и почему...</c></p>
-<p style="Normal" xid="120" props="lang:ru-RU; text-indent:1.50cm; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"><c></c></p>
-<p style="Normal" xid="121" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Литература:</c></p>
-<p style="Normal" xid="122" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">[1] - </c>A Survey of Computer Vision-Based Human<c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"> </c>Motion Capture</p>
-<p style="Normal" xid="123" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">[2] - A Survey of advances in vision-based human motion capture and analysis</p>
-<p style="Normal" xid="124" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">[3] - A Vision-based human motion analysis: An overview</p>
-<p style="Normal" xid="125" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">[4] - Human pose estimation (Leonid Sigal)</p>
-<p style="Normal" xid="126" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c></c></p>
-<p style="Normal" xid="127" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c></c></p>
-<p style="Normal" xid="128" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"></p>
+<p style="Normal" xid="84" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="85" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="86" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Работа данных методов обычно состоит из двух этапов:</c></p>
+<p style="Normal" xid="87" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">1) Моделирование</c></p>
+<p style="Normal" xid="88" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">2) Оценка</c></p>
+<p style="Normal" xid="89" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="90" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="91" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">a) Моделирование</c></p>
+<p style="Normal" xid="92" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">поподробнее ..</c></p>
+<p style="Normal" xid="93" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">б) Оценка</c></p>
+<p style="Normal" xid="94" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Подходы:</c></p>
+<p style="Normal" xid="95" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">- Оценка сверху-вниз (Top-down estimation)</c></p>
+<p style="Normal" xid="96" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">- Оценка снизу-вверх (Bottom-up estimation)</c></p>
+<p style="Normal" xid="97" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:normal">- Комбинированный</c></p>
+<p style="Normal" xid="98" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">поподробнее про каждый из них...</c></p>
+<p style="Normal" xid="99" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="100" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Классификация моделей человеческого тела (Human body models)</c></p>
+<p style="Normal" xid="101" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Кинематические модели (Kinematic models)</c></p>
+<p style="Normal" xid="102" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Модели формы (Shape models)</c></p>
+<p style="Normal" xid="103" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="104" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Описание изображения (image descriptors)</c></p>
+<p style="Normal" xid="105" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Силуэты и контуры (Silhouettes and contours)</c></p>
+<p style="Normal" xid="106" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Ребра (Edges)</c></p>
+<p style="Normal" xid="107" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- 3D модель (3D reconstruction)</c></p>
+<p style="Normal" xid="108" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Цвет и текстура</c></p>
+<p style="Normal" xid="109" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Перемещение (Motion)</c></p>
+<p style="Normal" xid="110" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">- Комбинация/Сочетание различных описаний (Combination of descriptors)</c></p>
+<p style="Normal" xid="111" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="112" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Ограничения камеры (Camera considerations)</c></p>
+<p style="Normal" xid="113" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="114" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Ограничения окружения (Environment considerations)</c></p>
+<p style="Normal" xid="115" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="116" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Оценка 3D (трехмерной) позы человека</c></p>
+<p style="Normal" xid="117" props="text-indent:1.50cm"><c></c></p>
+<p style="Normal" xid="118" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Motion priors</c></p>
+<p style="Normal" xid="119" props="lang:ru-RU; text-indent:1.50cm; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"><c></c></p>
+<p style="Normal" xid="120" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.5903in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p style="Normal" xid="121" props="lang:ru-RU; text-indent:1.50cm; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"><c props="lang:ru-RU; font-size:12pt; font-weight:bold; font-family:Times New Roman; color:#000000">Написать про каждый из этих методов подробнее, также описать их внутреннюю классификацию...</c></p>
+<p style="Normal" xid="122" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p style="Normal" xid="123" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">4) Распознавание (англ. recognition)</c></p>
+<p style="Normal" xid="124" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Распознавание личности, действий, деятельности и поведения людей на одном и более кадрах.[2]</c></p>
+<p style="Normal" xid="125" props="text-indent:1.50cm; text-align:center"><c props="lang:ru-RU; font-size:16pt; font-weight:normal; font-family:Times New Roman; color:#000000">Заключение (Выводы)</c></p>
+<p style="Normal" xid="126" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:ru-RU; font-size:12pt; font-family:Times New Roman; font-weight:bold">Какой вариант предположительно будем реализовывать и почему...</c></p>
+<p style="Normal" xid="127" props="lang:ru-RU; text-indent:1.50cm; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"><c></c></p>
+<p style="Normal" xid="128" props="text-indent:1.50cm"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">Литература:</c></p>
+<p style="Normal" xid="129" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000">[1] - </c>A Survey of Computer Vision-Based Human<c props="lang:ru-RU; font-size:12pt; font-weight:normal; font-family:Times New Roman; color:#000000"> </c>Motion Capture</p>
+<p style="Normal" xid="130" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">[2] - A Survey of advances in vision-based human motion capture and analysis</p>
+<p style="Normal" xid="131" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">[3] - A Vision-based human motion analysis: An overview</p>
+<p style="Normal" xid="132" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">[4] - Human pose estimation (Leonid Sigal)</p>
+<p style="Normal" xid="133" props="text-align:left; text-indent:1.50cm; dom-dir:ltr">[5] - Monocular Human Pose Estimation (Benjamin Laxton)</p>
+<p style="Normal" xid="134" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="135" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="136" props="text-align:left; text-indent:1.50cm; dom-dir:ltr"></p>
 </section>
 <data>
 <d name="0" mime-type="image/png" base64="yes">
@@ -1449,6 +1461,665 @@ nWJPW/Z3Aw53+juH4T9x9K5rM0pd4T6mXLbK608HoaUofgQKsjT90H/6bL/8hf8ASqk2K6gf
 LSv6VLbhTRj/ADR//wApX9KtTBcG8MtQpJJHKg0rgfuquJCmBIzEkA/NpX9KzMSJJIHVHdH3
 oNZRqI8R/Yr+Xwmq5UB1bfWGl+xHSf31Yta5Vnm9aGXVMr4cQEHn51uqFBxCVDOCMjIxX2v/
 2Q==
+</d>
+<d name="2b3f238a-89c0-11e2-9ec2-8d88ee52d6b9" mime-type="image/png" base64="yes">
+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
 </d>
 </data>
 </abiword>
