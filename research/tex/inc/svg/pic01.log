@@ -1,0 +1,86 @@
+TeXExec | processing document 'pdftrimwhite-pic01'
+TeXExec | no ctx file found
+TeXExec | tex processing method: context
+TeXExec | writing option file pdftrimwhite-pic01.top
+TeXExec | using randomseed 637
+TeXExec | tex engine: pdftex
+TeXExec | tex format: cont-en.mkii
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+ (/usr/share/texmf-texlive/web2c/natural.tcx)
+entering extended mode
+(./pdftrimwhite-pic01.tex
+
+ConTeXt  ver: 2011.05.18 18:04 MKII  fmt: 2012.9.13  int: english/english
+
+system          : cont-new.mkii loaded
+(/usr/share/texmf/tex/context/base/cont-new.mkii
+systems         : beware: some patches loaded from cont-new.mkii
+)
+system          : cont-sys.rme loaded
+(/etc/texmf/tex/context/user/cont-sys.rme
+(/usr/share/texmf/tex/context/base/type-siz.mkii)
+(/usr/share/texmf/tex/context/base/type-one.mkii))
+system          : pdftrimwhite-pic01.top loaded
+(./pdftrimwhite-pic01.top
+CtxTools | purging temporary files : pdftrimwhite-pic01.tex
+CtxTools | checking files that match 'pdftrimwhite-pic01-*.*'
+CtxTools | checking files that match 'pdftrimwhite-pic01.*'
+CtxTools | removed : pdftrimwhite-pic01-mpgraph.mp
+CtxTools | removed : pdftrimwhite-pic01.tui
+CtxTools | removed : pdftrimwhite-pic01.top
+CtxTools | removed : pdftrimwhite-pic01.log
+CtxTools | removed files : 4
+CtxTools | kept files : 0
+CtxTools | persistent files : 0
+CtxTools | reclaimed bytes : 15882
+
+TeXExec | runtime: 1.763534
+
+
+GPL Ghostscript 9.05 (2012-02-08)
+Copyright (C) 2010 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 1.
+Page 1
+%%BoundingBox: 32 508 340 787
+%%HiResBoundingBox: 32.237858 508.382211 339.493208 786.771117
+
+TeXExec | processing document 'pdftrimwhite-pic01'
+TeXExec | no ctx file found
+TeXExec | tex processing method: context
+TeXExec | writing option file pdftrimwhite-pic01.top
+TeXExec | using randomseed 110
+TeXExec | tex engine: pdftex
+TeXExec | tex format: cont-en.mkii
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+ (/usr/share/texmf-texlive/web2c/natural.tcx)
+entering extended mode
+(./pdftrimwhite-pic01.tex
+
+ConTeXt  ver: 2011.05.18 18:04 MKII  fmt: 2012.9.13  int: english/english
+
+system          : cont-new.mkii loaded
+(/usr/share/texmf/tex/context/base/cont-new.mkii
+systems         : beware: some patches loaded from cont-new.mkii
+)
+system          : cont-sys.rme loaded
+(/etc/texmf/tex/context/user/cont-sys.rme
+(/usr/share/texmf/tex/context/base/type-siz.mkii)
+(/usr/share/texmf/tex/context/base/type-one.mkii))
+system          : pdftrimwhite-pic01.top loaded
+(./pdftrimwhite-pic01.top
+CtxTools | purging temporary files : pdftrimwhite-pic01.tex
+CtxTools | checking files that match 'pdftrimwhite-pic01-*.*'
+CtxTools | checking files that match 'pdftrimwhite-pic01.*'
+CtxTools | removed : pdftrimwhite-pic01-mpgraph.mp
+CtxTools | removed : pdftrimwhite-pic01.tui
+CtxTools | removed : pdftrimwhite-pic01.top
+CtxTools | removed : pdftrimwhite-pic01.log
+CtxTools | removed files : 4
+CtxTools | kept files : 0
+CtxTools | persistent files : 0
+CtxTools | reclaimed bytes : 16446
+
+TeXExec | runtime: 0.530946
+
+
