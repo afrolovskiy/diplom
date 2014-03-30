@@ -1,1 +1,10 @@
 *.o
+*.pdf
+*.toc
+*.aux
+*.out
+*.bbl
+*.blg
+*.log
+.deps/
+tex/inc/
