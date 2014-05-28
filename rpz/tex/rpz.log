@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  29 MAY 2014 00:31
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  29 MAY 2014 00:52
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -1029,11 +1029,11 @@ File: uni-33.def 2004/10/17 UCS: Unicode data U+2100..U+21FF
 \openout2 = `30-design.aux'.
 
 
-(./30-design.tex <inc/dia/idef0-black-box.pdf, id=409, 730.73pt x 371.3875pt>
+(./30-design.tex <inc/dia/idef0-black-box.pdf, id=414, 730.73pt x 371.3875pt>
 File: inc/dia/idef0-black-box.pdf Graphic file (type pdf)
 
 <use inc/dia/idef0-black-box.pdf>
-<inc/dia/idef0.pdf, id=410, 1713.40125pt x 881.2925pt>
+<inc/dia/idef0.pdf, id=415, 1713.40125pt x 881.2925pt>
 File: inc/dia/idef0.pdf Graphic file (type pdf)
  <use inc/dia/idef0.pdf>
 [17
@@ -1041,11 +1041,11 @@ File: inc/dia/idef0.pdf Graphic file (type pdf)
 
 
  <./inc/dia/idef0-black-box.pdf>]
-<inc/dia/build-pathes.pdf, id=420, 1001.7425pt x 1030.85126pt>
+<inc/dia/build-pathes.pdf, id=425, 1001.7425pt x 1030.85126pt>
 File: inc/dia/build-pathes.pdf Graphic file (type pdf)
 
 <use inc/dia/build-pathes.pdf>
-<inc/dia/form-tables.pdf, id=422, 1890.06125pt x 795.97375pt>
+<inc/dia/form-tables.pdf, id=427, 1890.06125pt x 795.97375pt>
 File: inc/dia/form-tables.pdf Graphic file (type pdf)
 
 <use inc/dia/form-tables.pdf> [18]
@@ -1068,27 +1068,27 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 84--85
 [] [] [] 
  []
 
-<inc/dia/aliases1.pdf, id=431, 202.7575pt x 173.64874pt>
+<inc/dia/aliases1.pdf, id=436, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases1.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases1.pdf>
-<inc/dia/aliases2.pdf, id=432, 202.7575pt x 60.225pt>
+<inc/dia/aliases2.pdf, id=437, 202.7575pt x 60.225pt>
 File: inc/dia/aliases2.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases2.pdf>
-<inc/dia/aliases3.pdf, id=433, 344.28625pt x 145.54375pt>
+<inc/dia/aliases3.pdf, id=438, 344.28625pt x 145.54375pt>
 File: inc/dia/aliases3.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases3.pdf>
-<inc/dia/aliases4.pdf, id=434, 202.7575pt x 173.64874pt>
+<inc/dia/aliases4.pdf, id=439, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases4.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases4.pdf>
-<inc/dia/aliases5.pdf, id=435, 202.7575pt x 173.64874pt>
+<inc/dia/aliases5.pdf, id=440, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases5.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases5.pdf>
-<inc/dia/aliases6.pdf, id=436, 344.28625pt x 173.64874pt>
+<inc/dia/aliases6.pdf, id=441, 344.28625pt x 173.64874pt>
 File: inc/dia/aliases6.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases6.pdf>
@@ -1131,23 +1131,23 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
  [28])
-<inc/png/graphic1.pdf, id=576, 440.34915pt x 331.95619pt>
+<inc/png/graphic1.pdf, id=581, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
 <use inc/png/graphic1.pdf>
-<inc/png/graphic2.pdf, id=577, 440.34915pt x 331.95619pt>
+<inc/png/graphic2.pdf, id=582, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
-<inc/png/graphic3.pdf, id=578, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=583, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
-<inc/png/graphic4.pdf, id=579, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=584, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
-<inc/png/graphic5.pdf, id=580, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=585, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
 <use inc/png/graphic5.pdf>
@@ -1201,10 +1201,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22235 strings out of 493848
- 359888 string characters out of 1152823
- 505922 words of memory out of 3000000
- 24447 multiletter control sequences out of 15000+50000
+ 22237 strings out of 493848
+ 359912 string characters out of 1152823
+ 505926 words of memory out of 3000000
+ 24448 multiletter control sequences out of 15000+50000
  35520 words of font info for 84 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  60i,11n,75p,3455b,2317s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1222,9 +1222,9 @@ usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share
 /texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr8a.pfb></usr/share/texmf/fo
 nts/type1/public/scalable-cyrfonts-tex/ftmri6w.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (38 pages, 687037 bytes).
+Output written on rpz.pdf (38 pages, 687968 bytes).
 PDF statistics:
- 842 PDF objects out of 1000 (max. 8388607)
- 365 named destinations out of 1000 (max. 500000)
- 436 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 847 PDF objects out of 1000 (max. 8388607)
+ 366 named destinations out of 1000 (max. 500000)
+ 444 words of extra memory for PDF output out of 10000 (max. 10000000)
 
