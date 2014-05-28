@@ -12,6 +12,7 @@ PDF=rpz.pdf
 DIA=graphics/dia
 DOT=graphics/dot
 SVG=graphics/svg
+PNG=graphics/png
 TEX=tex
 DEPS=.deps
 SRC=src
@@ -78,6 +79,10 @@ $(INC)/dot/%.pdf: $(INC)/dot/%.tex
 $(INC)/src/%: $(SRC)/%
 	mkdir -p $(INC)/src
 	iconv -f UTF-8 -t KOI8-R $< > $@
+
+$(INC)/png/%.pdf: $(PNG)/%.png
+	mkdir -p $(INC)/png
+	convert $< $@
 
 clean:
 	find $(TEX)/ -regextype posix-egrep -type f ! -regex ".*\.(sty|tex|clo|cls|bib|bst|gitignore)" -exec $(RM) {} \; ;
