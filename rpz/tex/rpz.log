@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 12:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1284,10 +1284,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 23274 strings out of 494808
- 377322 string characters out of 3177607
+ 23262 strings out of 494808
+ 377144 string characters out of 3177607
  547487 words of memory out of 3000000
- 25392 multiletter control sequences out of 15000+200000
+ 25390 multiletter control sequences out of 15000+200000
  22663 words of font info for 63 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  60i,11n,75p,3455b,2345s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1305,10 +1305,10 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (39 pages, 582024 bytes).
+Output written on rpz.pdf (39 pages, 581339 bytes).
 PDF statistics:
- 1352 PDF objects out of 1440 (max. 8388607)
- 843 compressed objects within 9 object streams
- 423 named destinations out of 1000 (max. 500000)
+ 1340 PDF objects out of 1440 (max. 8388607)
+ 831 compressed objects within 9 object streams
+ 413 named destinations out of 1000 (max. 500000)
  452 words of extra memory for PDF output out of 10000 (max. 10000000)
 
