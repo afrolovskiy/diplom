@@ -29,35 +29,35 @@
 
 В процессе проведения экспериментов проводилось изменение числа потоков, создаваемых в функции \textbf{main}, и максимального количества вхождений базового блока в анализируемый путь. Графики зависимостей количества анализируемых путей и количества анализируемых инструкций от изменения максимального количества вхождений базового блока в путь представлены на рис.~\ref{fig:graphic1} и на рис.~\ref{fig:graphic2} соответственно. Зависимости времени анализа от количества анализируемых путей, количества потоков и путей представлены на рис.~\ref{fig:graphic3}, рис.~\ref{fig:graphic4} и рис.~\ref{fig:graphic5} соответственно. Видно, что ... (заключение по полученным графикам)
 
-\begin{figure}[ht]
+\begin{figure}[h]
   \centering
   \includegraphics[width=0.9\textwidth]{inc/png/graphic1}
   \caption{Зависимость количества анализируемых путей от максимального количества вхождений базового блока путь}
   \label{fig:graphic1}
 \end{figure}
 
-\begin{figure}[ht]
+\begin{figure}[h]
   \centering
   \includegraphics[width=0.9\textwidth]{inc/png/graphic2}
   \caption{Зависимость количества анализируемых инструкций от максимального количества вхождений базового блока путь}
   \label{fig:graphic2}
 \end{figure}
 
-\begin{figure}[ht]
+\begin{figure}[h]
   \centering
   \includegraphics[width=0.9\textwidth]{inc/png/graphic3}
   \caption{Зависимость времени анализа от количества анализируемых путей}
   \label{fig:graphic3}
 \end{figure}
 
-\begin{figure}[ht]
+\begin{figure}[h]
   \centering
   \includegraphics[width=0.9\textwidth]{inc/png/graphic4}
   \caption{Зависимость времени анализа от количества анализируемых инструкций}
   \label{fig:graphic4}
 \end{figure}
 
-\begin{figure}[ht]
+\begin{figure}[h]
   \centering
   \includegraphics[width=0.9\textwidth]{inc/png/graphic5}
   \caption{Зависимость времени анализа от количества потоков}
@@ -82,19 +82,22 @@ WARNING: Race condition when accessing the variable y (global) on line 8
 WARNING: Race condition when accessing the variable x (global) on line 8
 WARNING: Race condition when accessing the variable z (global) on line 8
 \end{verbatim}
-(объяснение результатов)
-
-Вывод программы при значение флага $WITH\_MAIN$, равным $'false'$:
+Среди найденных анализатором возможных мест возникновения гонок таковыми являются только две:
 \begin{verbatim}
 WARNING: Race condition when accessing the variable y (global) on line 8
 WARNING: Race condition when accessing the variable z (global) on line 8
 \end{verbatim}
-(объяснение результатов)
+Остальные обнаруженные места являются ошибочными, и являются ошибками второго рода. Их появление связано с тем, что при разработке метода было сделано предположение о параллельном выполнении всех потоков программы, поэтому, хотя инициализация разделяемых переменных $x$, $y$ и $z$ выполняется в функции \textbf{main} до создания остальных потоков, анализатор показывает место их инициализации, как потенциальное место возникновения гонок. Выполним запуск анализатора со значением флага $WITH\_MAIN$, равным $'false'$:
+\begin{verbatim}
+WARNING: Race condition when accessing the variable y (global) on line 8
+WARNING: Race condition when accessing the variable z (global) on line 8
+\end{verbatim}
+Как и ожидалось, анализатор показал только те места, в которых реально возможно возникновение гонок.
 
 \lstinputlisting[language=C,caption=Программа 1(\Code{test1.c}),label=lst:test1]{inc/src/test1.c}
 
-% \subsection{Программа 2}
+\subsection{Программа 2}
 
-% Текст программы представлен в листинге~\ref{lst:test2}. (с условной блокировоккой)
+Текст программы представлен в листинге~\ref{lst:test2}. В представленно программе в функции \textbf{main} создается два потока в каждом из которых проверяется состояние ...
 
-% \lstinputlisting[language=C,caption=Программа 2(\Code{test2.c}),label=lst:test2]{inc/src/test2.c}
+\lstinputlisting[language=C,caption=Программа 2(\Code{test2.c}),label=lst:test2]{inc/src/test2.c}

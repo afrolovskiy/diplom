@@ -35,6 +35,7 @@ int main(int argc, char** argv) {
 
     pthread_mutex_init(&m1, NULL);
     pthread_mutex_init(&m2, NULL);
+    pthread_mutex_init(&m3, NULL);
 
     pthread_create(&thread1, NULL, run_thread1, NULL);
     pthread_create(&thread2, NULL, run_thread2, NULL);
@@ -46,6 +47,7 @@ int main(int argc, char** argv) {
     
     pthread_mutex_destroy(&m1);
     pthread_mutex_destroy(&m2);
+    pthread_mutex_destroy(&m3);
 
     return 0;
 }
