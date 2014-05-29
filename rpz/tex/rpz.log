@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 15:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 17:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,10 +754,9 @@ Package: listings 2007/02/22 1.4 (Carsten Heinz)
 \@input{macros.inc.aux}
 \openout2 = `macros.inc.aux'.
 
-(./macros.inc.tex) (./rpz.aux (./00-abstract.aux) (./10-defines.aux)
-(./11-abbrev.aux) (./12-intro.aux) (./20-analysis.aux) (./30-design.aux)
-(./40-impl.aux) (./50-research.aux) (./80-conclusion.aux) (./81-biblio.aux)
-(./90-appendix1.aux) (./91-appendix2.aux))
+(./macros.inc.tex) (./rpz.aux (./00-abstract.aux) (./12-intro.aux)
+(./20-analysis.aux) (./30-design.aux) (./40-impl.aux) (./50-research.aux)
+(./80-conclusion.aux) (./81-biblio.aux))
 \openout1 = `rpz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -944,32 +943,19 @@ LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
 \openout5 = `rpz.toc'.
 
  [3]
-\openout2 = `10-defines.aux'.
-
- (./10-defines.tex) [4
-
-
-]
-\openout2 = `11-abbrev.aux'.
-
- (./11-abbrev.tex) [5
-
-
-
-]
 \openout2 = `12-intro.aux'.
 
- (./12-intro.tex) [6
-
+ (./12-intro.tex) [4
 
 
 ]
 \openout2 = `20-analysis.aux'.
 
-
-(./20-analysis.tex (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+ (./20-analysis.tex
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2012/04/20 UCS: Unicode data U+2000..U+20FF
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
@@ -983,7 +969,7 @@ File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/race.c
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
-[7
+[5
 
 
 
@@ -996,7 +982,7 @@ Underfull \hbox (badness 5970) in paragraph at lines 14--14
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/protected.c) [8] [9]
+(./inc/src/protected.c) [6] [7]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
@@ -1007,50 +993,50 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/annotated2.cpp [10])
+(./inc/src/annotated2.cpp [8])
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/annotated3.cpp) [11]
+(./inc/src/annotated3.cpp) [9]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/munge.c [12]) [13] [14] [15]
+(./inc/src/munge.c [10]) [11] [12] [13]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2012/04/20 UCS: Unicode data U+2200..U+22FF
-) [16]
+) [14]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
 File: uni-33.def 2012/04/20 UCS: Unicode data U+2100..U+21FF
-)) [17]
+)) [15]
 \openout2 = `30-design.aux'.
 
 
-(./30-design.tex <inc/dia/idef0-black-box.pdf, id=475, 730.73pt x 371.3875pt>
+(./30-design.tex <inc/dia/idef0-black-box.pdf, id=455, 730.73pt x 371.3875pt>
 File: inc/dia/idef0-black-box.pdf Graphic file (type pdf)
 
 <use inc/dia/idef0-black-box.pdf>
 Package pdftex.def Info: inc/dia/idef0-black-box.pdf used on input line 21.
 (pdftex.def)             Requested size: 273.14923pt x 138.82228pt.
 
-<inc/dia/idef0.pdf, id=476, 1713.40125pt x 881.2925pt>
+<inc/dia/idef0.pdf, id=456, 1713.40125pt x 881.2925pt>
 File: inc/dia/idef0.pdf Graphic file (type pdf)
  <use inc/dia/idef0.pdf>
 Package pdftex.def Info: inc/dia/idef0.pdf used on input line 28.
 (pdftex.def)             Requested size: 455.24411pt x 234.14653pt.
 
-[18
+[16
 
 
 
  <./inc/dia/idef0-black-box.pdf>]
-<inc/dia/build-pathes.pdf, id=486, 1001.7425pt x 1030.85126pt>
+<inc/dia/build-pathes.pdf, id=466, 1001.7425pt x 1030.85126pt>
 File: inc/dia/build-pathes.pdf Graphic file (type pdf)
 
 <use inc/dia/build-pathes.pdf>
 Package pdftex.def Info: inc/dia/build-pathes.pdf used on input line 44.
 (pdftex.def)             Requested size: 455.24411pt x 468.4718pt.
- [19]
-<inc/dia/form-tables.pdf, id=494, 1890.06125pt x 795.97375pt>
+ [17]
+<inc/dia/form-tables.pdf, id=473, 1890.06125pt x 795.97375pt>
 File: inc/dia/form-tables.pdf Graphic file (type pdf)
 
 <use inc/dia/form-tables.pdf>
@@ -1076,28 +1062,28 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 84--85
 [] [] [] 
  []
 
-<inc/dia/aliases1.pdf, id=497, 202.7575pt x 173.64874pt>
+<inc/dia/aliases1.pdf, id=476, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases1.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases1.pdf>
 Package pdftex.def Info: inc/dia/aliases1.pdf used on input line 86.
 (pdftex.def)             Requested size: 101.3785pt x 86.82416pt.
 
-<inc/dia/aliases2.pdf, id=498, 202.7575pt x 60.225pt>
+<inc/dia/aliases2.pdf, id=477, 202.7575pt x 60.225pt>
 File: inc/dia/aliases2.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases2.pdf>
 Package pdftex.def Info: inc/dia/aliases2.pdf used on input line 88.
 (pdftex.def)             Requested size: 101.3785pt x 30.11241pt.
 
-<inc/dia/aliases3.pdf, id=499, 344.28625pt x 145.54375pt>
+<inc/dia/aliases3.pdf, id=478, 344.28625pt x 145.54375pt>
 File: inc/dia/aliases3.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases3.pdf>
 Package pdftex.def Info: inc/dia/aliases3.pdf used on input line 90.
 (pdftex.def)             Requested size: 172.1427pt x 72.77168pt.
 
-<inc/dia/aliases4.pdf, id=500, 202.7575pt x 173.64874pt>
+<inc/dia/aliases4.pdf, id=479, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases4.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases4.pdf>
@@ -1115,14 +1101,14 @@ Underfull \hbox (badness 1092) in paragraph at lines 94--94
 A/cmr/m/n/12 из
  []
 
-<inc/dia/aliases5.pdf, id=501, 202.7575pt x 173.64874pt>
+<inc/dia/aliases5.pdf, id=480, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases5.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases5.pdf>
 Package pdftex.def Info: inc/dia/aliases5.pdf used on input line 94.
 (pdftex.def)             Requested size: 101.3785pt x 86.82416pt.
 
-<inc/dia/aliases6.pdf, id=502, 344.28625pt x 173.64874pt>
+<inc/dia/aliases6.pdf, id=481, 344.28625pt x 173.64874pt>
 File: inc/dia/aliases6.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases6.pdf>
@@ -1133,16 +1119,16 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 85--97
 [] [] [] 
  []
 
-[20 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf> <./inc/dia/aliases3.pdf>]
+[18 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf> <./inc/dia/aliases3.pdf>]
 
 Underfull \hbox (badness 2376) in paragraph at lines 102--103
 []\T2A/cmr/m/n/12 Под от^^?но^^?си^^?тель^^?ным мно^^?же^^?ством бло^^?ки^^?ро^
 ^?вок $\OML/cmm/m/it/12 L$ \T2A/cmr/m/n/12 бу^^?дем по^^?ни^^?мать па^^?ру
  []
 
-[21 <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.pdf> <./inc/dia/aliases6.pdf>]
-[22]) [23] [24 <./inc/dia/idef0.pdf>] [25 <./inc/dia/build-pathes.pdf>]
-[26 <./inc/dia/form-tables.pdf>]
+[19 <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.pdf> <./inc/dia/aliases6.pdf>]
+[20]) [21] [22 <./inc/dia/idef0.pdf>] [23 <./inc/dia/build-pathes.pdf>]
+[24 <./inc/dia/form-tables.pdf>]
 \openout2 = `40-impl.aux'.
 
  (./40-impl.tex
@@ -1157,7 +1143,7 @@ Underfull \hbox (badness 2903) in paragraph at lines 37--38
 б^^?лио^^?те^^?ки \T2A/cmr/bx/n/12 gcc-^^?python-^^?
  []
 
-[27
+[25
 
 
 
@@ -1179,14 +1165,14 @@ Overfull \hbox (32.46179pt too wide) in paragraph at lines 67--67
 (global) on line 19[] 
  []
 
-) [28]
+) [26]
 \openout2 = `50-research.aux'.
 
  (./50-research.tex
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/readers-writers.c [29
+(./inc/src/readers-writers.c [27
 
 
 
@@ -1201,51 +1187,51 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
- [30])
-<inc/png/graphic1.pdf, id=646, 440.34915pt x 331.95619pt>
+ [28])
+<inc/png/graphic1.pdf, id=626, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
 <use inc/png/graphic1.pdf>
 Package pdftex.def Info: inc/png/graphic1.pdf used on input line 34.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic2.pdf, id=647, 440.34915pt x 331.95619pt>
+<inc/png/graphic2.pdf, id=627, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
 Package pdftex.def Info: inc/png/graphic2.pdf used on input line 41.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic3.pdf, id=648, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=628, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
 Package pdftex.def Info: inc/png/graphic3.pdf used on input line 48.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic4.pdf, id=649, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=629, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
 Package pdftex.def Info: inc/png/graphic4.pdf used on input line 55.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic5.pdf, id=650, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=630, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
 <use inc/png/graphic5.pdf>
 Package pdftex.def Info: inc/png/graphic5.pdf used on input line 62.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
- [31] [32 <./inc/png/graphic1.pdf> <./inc/png/graphic2.pdf>] [33 <./inc/png/gra
+ [29] [30 <./inc/png/graphic1.pdf> <./inc/png/graphic2.pdf>] [31 <./inc/png/gra
 phic3.pdf> <./inc/png/graphic4.pdf>]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test1.c [34]) [35]
+(./inc/src/test1.c [32]) [33]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test2.c) [36]
+(./inc/src/test2.c) [34]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
@@ -1263,11 +1249,11 @@ global) on line 19[]
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
-)) [37] [38]
-[39 <./inc/png/graphic5.pdf>]
+)) [35] [36]
+[37 <./inc/png/graphic5.pdf>]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [40
+ (./80-conclusion.tex) [38
 
 
 
@@ -1275,36 +1261,20 @@ File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex
-(./rpz.bbl)) [41
-
-
-
-]
-\openout2 = `90-appendix1.aux'.
-
- (./90-appendix1.tex) [42
-
-
-
-]
-\openout2 = `91-appendix2.aux'.
-
- (./91-appendix2.tex) [43
+(./rpz.bbl)) [39
 
 
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
-
-(./rpz.aux (./00-abstract.aux) (./10-defines.aux) (./11-abbrev.aux)
-(./12-intro.aux) (./20-analysis.aux) (./30-design.aux) (./40-impl.aux)
-(./50-research.aux) (./80-conclusion.aux) (./81-biblio.aux) (./90-appendix1.aux
-) (./91-appendix2.aux))
+ (./rpz.aux (./00-abstract.aux) (./12-intro.aux)
+(./20-analysis.aux) (./30-design.aux) (./40-impl.aux) (./50-research.aux)
+(./80-conclusion.aux) (./81-biblio.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `rpz.out' has not changed.
-(rerunfilecheck)             Checksum: D350790D9C850D67B0A721E56C10C7DC;9898.
+(rerunfilecheck)             Checksum: 0C9E58969F2DE5F7948F2DFAC37D4D51;9648.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1312,10 +1282,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 23797 strings out of 494808
- 382892 string characters out of 3177607
- 547553 words of memory out of 3000000
- 25882 multiletter control sequences out of 15000+200000
+ 23751 strings out of 494808
+ 382258 string characters out of 3177607
+ 544486 words of memory out of 3000000
+ 25874 multiletter control sequences out of 15000+200000
  22663 words of font info for 63 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  60i,11n,75p,3455b,2345s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1333,10 +1303,10 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (43 pages, 595231 bytes).
+Output written on rpz.pdf (39 pages, 590598 bytes).
 PDF statistics:
- 1453 PDF objects out of 1728 (max. 8388607)
- 921 compressed objects within 10 object streams
- 448 named destinations out of 1000 (max. 500000)
- 524 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1411 PDF objects out of 1440 (max. 8388607)
+ 892 compressed objects within 9 object streams
+ 438 named destinations out of 1000 (max. 500000)
+ 508 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2,8 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: rpz.aux
 A level-1 auxiliary file: 00-abstract.aux
-A level-1 auxiliary file: 10-defines.aux
-A level-1 auxiliary file: 11-abbrev.aux
 A level-1 auxiliary file: 12-intro.aux
 A level-1 auxiliary file: 20-analysis.aux
 A level-1 auxiliary file: 30-design.aux
@@ -12,12 +10,10 @@ A level-1 auxiliary file: 50-research.aux
 A level-1 auxiliary file: 80-conclusion.aux
 A level-1 auxiliary file: 81-biblio.aux
 The style file: gost780u.bst
-A level-1 auxiliary file: 90-appendix1.aux
-A level-1 auxiliary file: 91-appendix2.aux
 Database file #1: rpz.bib
 You've used 1 entry,
             2674 wiz_defined-function locations,
-            655 strings with 5257 characters,
+            651 strings with 5198 characters,
 and the built_in function-call counts, 292 in all, are:
 = -- 33
 > -- 8
