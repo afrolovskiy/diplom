@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 18:19
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 18:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1011,14 +1011,14 @@ File: uni-33.def 2012/04/20 UCS: Unicode data U+2100..U+21FF
 \openout2 = `30-design.aux'.
 
 
-(./30-design.tex <inc/dia/idef0-black-box.pdf, id=460, 730.73pt x 371.3875pt>
+(./30-design.tex <inc/dia/idef0-black-box.pdf, id=475, 730.73pt x 371.3875pt>
 File: inc/dia/idef0-black-box.pdf Graphic file (type pdf)
 
 <use inc/dia/idef0-black-box.pdf>
 Package pdftex.def Info: inc/dia/idef0-black-box.pdf used on input line 21.
 (pdftex.def)             Requested size: 273.14923pt x 138.82228pt.
 
-<inc/dia/idef0.pdf, id=461, 1713.40125pt x 881.2925pt>
+<inc/dia/idef0.pdf, id=476, 1713.40125pt x 881.2925pt>
 File: inc/dia/idef0.pdf Graphic file (type pdf)
  <use inc/dia/idef0.pdf>
 Package pdftex.def Info: inc/dia/idef0.pdf used on input line 28.
@@ -1029,14 +1029,14 @@ Package pdftex.def Info: inc/dia/idef0.pdf used on input line 28.
 
 
  <./inc/dia/idef0-black-box.pdf>]
-<inc/dia/build-pathes.pdf, id=471, 1001.7425pt x 1030.85126pt>
+<inc/dia/build-pathes.pdf, id=486, 1001.7425pt x 1030.85126pt>
 File: inc/dia/build-pathes.pdf Graphic file (type pdf)
 
 <use inc/dia/build-pathes.pdf>
 Package pdftex.def Info: inc/dia/build-pathes.pdf used on input line 44.
 (pdftex.def)             Requested size: 455.24411pt x 468.4718pt.
  [17]
-<inc/dia/form-tables.pdf, id=478, 1890.06125pt x 795.97375pt>
+<inc/dia/form-tables.pdf, id=493, 1890.06125pt x 795.97375pt>
 File: inc/dia/form-tables.pdf Graphic file (type pdf)
 
 <use inc/dia/form-tables.pdf>
@@ -1062,28 +1062,28 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 84--85
 [] [] [] 
  []
 
-<inc/dia/aliases1.pdf, id=481, 202.7575pt x 173.64874pt>
+<inc/dia/aliases1.pdf, id=496, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases1.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases1.pdf>
 Package pdftex.def Info: inc/dia/aliases1.pdf used on input line 86.
 (pdftex.def)             Requested size: 101.3785pt x 86.82416pt.
 
-<inc/dia/aliases2.pdf, id=482, 202.7575pt x 60.225pt>
+<inc/dia/aliases2.pdf, id=497, 202.7575pt x 60.225pt>
 File: inc/dia/aliases2.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases2.pdf>
 Package pdftex.def Info: inc/dia/aliases2.pdf used on input line 88.
 (pdftex.def)             Requested size: 101.3785pt x 30.11241pt.
 
-<inc/dia/aliases3.pdf, id=483, 344.28625pt x 145.54375pt>
+<inc/dia/aliases3.pdf, id=498, 344.28625pt x 145.54375pt>
 File: inc/dia/aliases3.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases3.pdf>
 Package pdftex.def Info: inc/dia/aliases3.pdf used on input line 90.
 (pdftex.def)             Requested size: 172.1427pt x 72.77168pt.
 
-<inc/dia/aliases4.pdf, id=484, 202.7575pt x 173.64874pt>
+<inc/dia/aliases4.pdf, id=499, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases4.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases4.pdf>
@@ -1101,14 +1101,14 @@ Underfull \hbox (badness 1092) in paragraph at lines 94--94
 A/cmr/m/n/12 из
  []
 
-<inc/dia/aliases5.pdf, id=485, 202.7575pt x 173.64874pt>
+<inc/dia/aliases5.pdf, id=500, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases5.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases5.pdf>
 Package pdftex.def Info: inc/dia/aliases5.pdf used on input line 94.
 (pdftex.def)             Requested size: 101.3785pt x 86.82416pt.
 
-<inc/dia/aliases6.pdf, id=486, 344.28625pt x 173.64874pt>
+<inc/dia/aliases6.pdf, id=501, 344.28625pt x 173.64874pt>
 File: inc/dia/aliases6.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases6.pdf>
@@ -1131,60 +1131,67 @@ Underfull \hbox (badness 2376) in paragraph at lines 102--103
 [24 <./inc/dia/form-tables.pdf>]
 \openout2 = `40-impl.aux'.
 
- (./40-impl.tex
-Underfull \hbox (badness 2103) in paragraph at lines 32--33
+ (./40-impl.tex [25
+
+
+
+]
+Underfull \hbox (badness 2103) in paragraph at lines 62--63
 []\T2A/cmr/m/n/12 Структура раз^^?ра^^?бо^^?тан^^?но^^?го про^^?грамм^^?но^^?го
  обес^^?пе^^?че^^?ния пред^^?став^^?ле^^?на на
  []
 
-<inc/dia/components.pdf, id=538, 776.9025pt x 243.91125pt>
+<inc/dia/components.pdf, id=559, 776.9025pt x 243.91125pt>
 File: inc/dia/components.pdf Graphic file (type pdf)
 
 <use inc/dia/components.pdf>
-Package pdftex.def Info: inc/dia/components.pdf used on input line 36.
+Package pdftex.def Info: inc/dia/components.pdf used on input line 66.
 (pdftex.def)             Requested size: 364.19667pt x 114.34427pt.
- [25
 
+<inc/dia/sequence.pdf, id=560, 443.6575pt x 386.44376pt>
+File: inc/dia/sequence.pdf Graphic file (type pdf)
 
-
- <./inc/dia/components.pdf>]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 44.
+<use inc/dia/sequence.pdf>
+Package pdftex.def Info: inc/dia/sequence.pdf used on input line 73.
+(pdftex.def)             Requested size: 364.19667pt x 317.22794pt.
+ [26 <./inc/dia/components.pdf>]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 81.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 2903) in paragraph at lines 53--54
+Underfull \hbox (badness 2903) in paragraph at lines 90--91
 []\T2A/cmr/bx/n/12 <path-to-gcc-python-plugin-lib> \T2A/cmr/m/n/12 - путь до би
 б^^?лио^^?те^^?ки \T2A/cmr/bx/n/12 gcc-^^?python-^^?
  []
 
 
-Overfull \hbox (149.75815pt too wide) in paragraph at lines 71--71
+Overfull \hbox (149.75815pt too wide) in paragraph at lines 108--108
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable <variab
 le-name> (<visibility>) on line <line>[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 83--83
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 120--120
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 37[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 83--83
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 120--120
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 19[] 
  []
 
-) [26] [27]
+) [27] [28] [29 <./inc/dia/sequence.pdf>]
 \openout2 = `50-research.aux'.
 
  (./50-research.tex
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/readers-writers.c [28
+(./inc/src/readers-writers.c [30
 
 
 
@@ -1199,51 +1206,51 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
- [29])
-<inc/png/graphic1.pdf, id=640, 440.34915pt x 331.95619pt>
+ [31])
+<inc/png/graphic1.pdf, id=669, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
 <use inc/png/graphic1.pdf>
 Package pdftex.def Info: inc/png/graphic1.pdf used on input line 34.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic2.pdf, id=641, 440.34915pt x 331.95619pt>
+<inc/png/graphic2.pdf, id=670, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
 Package pdftex.def Info: inc/png/graphic2.pdf used on input line 41.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic3.pdf, id=642, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=671, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
 Package pdftex.def Info: inc/png/graphic3.pdf used on input line 48.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic4.pdf, id=643, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=672, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
 Package pdftex.def Info: inc/png/graphic4.pdf used on input line 55.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic5.pdf, id=644, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=673, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
 <use inc/png/graphic5.pdf>
 Package pdftex.def Info: inc/png/graphic5.pdf used on input line 62.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
- [30] [31 <./inc/png/graphic1.pdf> <./inc/png/graphic2.pdf>] [32 <./inc/png/gra
+ [32] [33 <./inc/png/graphic1.pdf> <./inc/png/graphic2.pdf>] [34 <./inc/png/gra
 phic3.pdf> <./inc/png/graphic4.pdf>]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test1.c [33]) [34]
+(./inc/src/test1.c [35]) [36]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test2.c) [35]
+(./inc/src/test2.c) [37]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
@@ -1261,11 +1268,11 @@ global) on line 19[]
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
-)) [36] [37]
-[38 <./inc/png/graphic5.pdf>]
+)) [38] [39]
+[40 <./inc/png/graphic5.pdf>]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [39
+ (./80-conclusion.tex) [41
 
 
 
@@ -1273,7 +1280,7 @@ File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex
-(./rpz.bbl)) [40
+(./rpz.bbl)) [42
 
 
 
@@ -1286,7 +1293,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `rpz.out' has not changed.
-(rerunfilecheck)             Checksum: 2802C2AABDEEBCD8975DA5E708983C18;10022.
+(rerunfilecheck)             Checksum: 50A603E2AFE31067FC7DEAE49B0739B2;10744.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1294,10 +1301,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 23761 strings out of 494808
- 382443 string characters out of 3177607
- 544587 words of memory out of 3000000
- 25880 multiletter control sequences out of 15000+200000
+ 23776 strings out of 494808
+ 382701 string characters out of 3177607
+ 544706 words of memory out of 3000000
+ 25888 multiletter control sequences out of 15000+200000
  22663 words of font info for 63 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  60i,11n,75p,3455b,2345s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1315,10 +1322,10 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (40 pages, 608854 bytes).
+Output written on rpz.pdf (42 pages, 617609 bytes).
 PDF statistics:
- 1428 PDF objects out of 1440 (max. 8388607)
- 905 compressed objects within 10 object streams
- 441 named destinations out of 1000 (max. 500000)
- 521 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1460 PDF objects out of 1728 (max. 8388607)
+ 930 compressed objects within 10 object streams
+ 447 named destinations out of 1000 (max. 500000)
+ 550 words of extra memory for PDF output out of 10000 (max. 10000000)
 
