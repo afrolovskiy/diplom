@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  29 MAY 2014 23:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  29 MAY 2014 23:38
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -994,7 +994,7 @@ File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/munge.c)
 [9] [10] [11]
-Underfull \hbox (badness 1337) in paragraph at lines 93--94
+Underfull \hbox (badness 1337) in paragraph at lines 96--97
 []\T2A/ftm/m/n/12 Метод ос^^?но^^?ван на кон^^?цеп^^?ции от^^?но^^?си^^?тель^^?
 но^^?го мно^^?же^^?ства бло^^?ки^^?ро^^?вок (ан^^?гл.
  []
@@ -1008,11 +1008,11 @@ File: uni-33.def 2004/10/17 UCS: Unicode data U+2100..U+21FF
 \openout2 = `30-design.aux'.
 
 
-(./30-design.tex <inc/dia/idef0-black-box.pdf, id=443, 730.73pt x 371.3875pt>
+(./30-design.tex <inc/dia/idef0-black-box.pdf, id=448, 730.73pt x 371.3875pt>
 File: inc/dia/idef0-black-box.pdf Graphic file (type pdf)
 
 <use inc/dia/idef0-black-box.pdf>
-<inc/dia/idef0.pdf, id=444, 1713.40125pt x 881.2925pt>
+<inc/dia/idef0.pdf, id=449, 1713.40125pt x 881.2925pt>
 File: inc/dia/idef0.pdf Graphic file (type pdf)
  <use inc/dia/idef0.pdf>
 [15
@@ -1020,94 +1020,93 @@ File: inc/dia/idef0.pdf Graphic file (type pdf)
 
 
  <./inc/dia/idef0-black-box.pdf>]
-<inc/dia/build-pathes.pdf, id=455, 998.73125pt x 1027.84pt>
+<inc/dia/build-pathes.pdf, id=459, 998.73125pt x 1027.84pt>
 File: inc/dia/build-pathes.pdf Graphic file (type pdf)
 
-<use inc/dia/build-pathes.pdf>
-<inc/dia/form-tables.pdf, id=457, 1890.06125pt x 795.97375pt>
+<use inc/dia/build-pathes.pdf> [16] [17 <./inc/dia/idef0.pdf> <./inc/dia/build-
+pathes.pdf>] <inc/dia/form-tables.pdf, id=474, 1890.06125pt x 795.97375pt>
 File: inc/dia/form-tables.pdf Graphic file (type pdf)
 
-<use inc/dia/form-tables.pdf> [16] [17 <./inc/dia/idef0.pdf> <./inc/dia/build-p
-athes.pdf>]
-Overfull \hbox (37.59302pt too wide) in alignment at lines 75--80
+<use inc/dia/form-tables.pdf>
+Overfull \hbox (37.59302pt too wide) in alignment at lines 88--93
 [] [] [] 
  []
 
 
-Overfull \hbox (37.59302pt too wide) in alignment at lines 80--82
+Overfull \hbox (37.59302pt too wide) in alignment at lines 93--95
 [] [] [] 
  []
 
 
-Overfull \hbox (37.59302pt too wide) in alignment at lines 82--84
+Overfull \hbox (37.59302pt too wide) in alignment at lines 95--97
 [] [] [] 
  []
 
 
-Overfull \hbox (37.59302pt too wide) in alignment at lines 84--85
+Overfull \hbox (37.59302pt too wide) in alignment at lines 97--98
 [] [] [] 
  []
 
-<inc/dia/aliases1.pdf, id=473, 202.7575pt x 173.64874pt>
+<inc/dia/aliases1.pdf, id=477, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases1.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases1.pdf>
-<inc/dia/aliases2.pdf, id=474, 202.7575pt x 60.225pt>
+<inc/dia/aliases2.pdf, id=478, 202.7575pt x 60.225pt>
 File: inc/dia/aliases2.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases2.pdf>
-<inc/dia/aliases3.pdf, id=475, 344.28625pt x 145.54375pt>
+<inc/dia/aliases3.pdf, id=479, 344.28625pt x 145.54375pt>
 File: inc/dia/aliases3.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases3.pdf>
-<inc/dia/aliases4.pdf, id=476, 202.7575pt x 173.64874pt>
+<inc/dia/aliases4.pdf, id=480, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases4.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases4.pdf>
-<inc/dia/aliases5.pdf, id=477, 202.7575pt x 173.64874pt>
+<inc/dia/aliases5.pdf, id=481, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases5.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases5.pdf>
-<inc/dia/aliases6.pdf, id=478, 344.28625pt x 173.64874pt>
+<inc/dia/aliases6.pdf, id=482, 344.28625pt x 173.64874pt>
 File: inc/dia/aliases6.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases6.pdf>
-Overfull \hbox (37.59302pt too wide) in alignment at lines 85--97
+Overfull \hbox (37.59302pt too wide) in alignment at lines 98--110
 [] [] [] 
  []
 
-[18 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf> <./inc/dia/aliases3.pdf> 
-<./inc/dia/aliases4.pdf>]
-<inc/dia/build-relative-lockset.pdf, id=493, 999.735pt x 914.41624pt>
+[18 <./inc/dia/form-tables.pdf> <./inc/dia/aliases1.pdf>] [19 <./inc/dia/aliase
+s2.pdf> <./inc/dia/aliases3.pdf> <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.p
+df>] <inc/dia/build-relative-lockset.pdf, id=507, 999.735pt x 914.41624pt>
 File: inc/dia/build-relative-lockset.pdf Graphic file (type pdf)
 
-<use inc/dia/build-relative-lockset.pdf> [19 <./inc/dia/aliases5.pdf> <./inc/di
-a/aliases6.pdf>] [20 <./inc/dia/form-tables.pdf> <./inc/dia/build-relative-lock
-set.pdf>]
+<use inc/dia/build-relative-lockset.pdf> [20 <./inc/dia/aliases6.pdf>] [21 <./i
+nc/dia/build-relative-lockset.pdf>]
 
-LaTeX Warning: Reference `fig:udpate-access' on page 21 undefined on input line
- 122.
+LaTeX Warning: Reference `fig:udpate-access' on page 22 undefined on input line
+ 135.
 
-[21] <inc/dia/update-access.pdf, id=516, 999.735pt x 885.3075pt>
+<inc/dia/update-access.pdf, id=522, 999.735pt x 885.3075pt>
 File: inc/dia/update-access.pdf Graphic file (type pdf)
 
-<use inc/dia/update-access.pdf> [22 <./inc/dia/update-access.pdf>]
-<inc/dia/generate-warnings.pdf, id=526, 1203.49625pt x 1198.4775pt>
+<use inc/dia/update-access.pdf> [22] [23 <./inc/dia/update-access.pdf>]
+<inc/dia/generate-warnings.pdf, id=536, 1203.49625pt x 1198.4775pt>
 File: inc/dia/generate-warnings.pdf Graphic file (type pdf)
 
-<use inc/dia/generate-warnings.pdf>) [23 <./inc/dia/generate-warnings.pdf>]
+<use inc/dia/generate-warnings.pdf>) [24 <./inc/dia/generate-warnings.pdf>]
+[25]
 \openout2 = `40-impl.aux'.
 
-
-(./40-impl.tex [24
-
+ (./40-impl.tex [26
 
 
-] <inc/dia/sequence.pdf, id=539, 443.6575pt x 386.44376pt>
+
+]
+<inc/dia/sequence.pdf, id=554, 443.6575pt x 386.44376pt>
 File: inc/dia/sequence.pdf Graphic file (type pdf)
 
-<use inc/dia/sequence.pdf> [25]
-<inc/dia/components.pdf, id=547, 776.9025pt x 243.91125pt>
+<use inc/dia/sequence.pdf> [27]
+<inc/dia/components.pdf, id=561, 776.9025pt x 243.91125pt>
 File: inc/dia/components.pdf Graphic file (type pdf)
 
 <use inc/dia/components.pdf>
@@ -1116,7 +1115,7 @@ LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 91.
 
 (/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [26] [27 <./inc/dia/sequence.pdf> <./inc/dia/components.pdf>]
+) [28] [29 <./inc/dia/sequence.pdf> <./inc/dia/components.pdf>]
 Overfull \hbox (149.75815pt too wide) in paragraph at lines 118--118
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable <variab
 le-name> (<visibility>) on line <line>[] 
@@ -1134,14 +1133,14 @@ Overfull \hbox (32.46179pt too wide) in paragraph at lines 130--130
 (global) on line 19[] 
  []
 
-) [28]
+) [30]
 \openout2 = `50-research.aux'.
 
  (./50-research.tex
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/readers-writers.c [29
+(./inc/src/readers-writers.c [31
 
 
 
@@ -1158,35 +1157,35 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
- [30])
-<inc/png/graphic1.pdf, id=651, 440.34915pt x 331.95619pt>
+ [32])
+<inc/png/graphic1.pdf, id=666, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
 <use inc/png/graphic1.pdf>
-<inc/png/graphic2.pdf, id=652, 440.34915pt x 331.95619pt>
+<inc/png/graphic2.pdf, id=667, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
-<inc/png/graphic3.pdf, id=653, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=668, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
-<inc/png/graphic4.pdf, id=654, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=669, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
-<inc/png/graphic5.pdf, id=655, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=670, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
-<use inc/png/graphic5.pdf> [31] [32 <./inc/png/graphic1.pdf> <./inc/png/graphic
-2.pdf>] [33 <./inc/png/graphic3.pdf> <./inc/png/graphic4.pdf>]
+<use inc/png/graphic5.pdf> [33] [34 <./inc/png/graphic1.pdf> <./inc/png/graphic
+2.pdf>] [35 <./inc/png/graphic3.pdf> <./inc/png/graphic4.pdf>]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test1.c
-[34]) [35] (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
+[36]) [37] (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test2.c) [36]
+(./inc/src/test2.c) [38]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test3.c)
@@ -1203,10 +1202,10 @@ global) on line 19[]
 
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
-)) [37] [38] [39 <./inc/png/graphic5.pdf>]
+)) [39] [40] [41 <./inc/png/graphic5.pdf>]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [40
+ (./80-conclusion.tex) [42
 
 
 
@@ -1214,7 +1213,7 @@ File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./rpz.bbl))
-[41
+[43
 
 
 
@@ -1228,10 +1227,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 22809 strings out of 493848
- 366703 string characters out of 1152823
+ 22813 strings out of 493848
+ 366741 string characters out of 1152823
  503697 words of memory out of 3000000
- 24959 multiletter control sequences out of 15000+50000
+ 24960 multiletter control sequences out of 15000+50000
  35520 words of font info for 84 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  60i,11n,75p,3455b,2317s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1249,9 +1248,9 @@ usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share
 /texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr8a.pfb></usr/share/texmf/fo
 nts/type1/public/scalable-cyrfonts-tex/ftmri6w.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (41 pages, 1031409 bytes).
+Output written on rpz.pdf (43 pages, 1034553 bytes).
 PDF statistics:
- 1004 PDF objects out of 1200 (max. 8388607)
- 444 named destinations out of 1000 (max. 500000)
- 533 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1020 PDF objects out of 1200 (max. 8388607)
+ 447 named destinations out of 1000 (max. 500000)
+ 541 words of extra memory for PDF output out of 10000 (max. 10000000)
 
