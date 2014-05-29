@@ -68,9 +68,9 @@ int main(int argc, char** argv) {
     pthread_join(thread5, NULL);
     pthread_join(thread6, NULL);
 
-    pthread_destroy(&reader_count_mutex);
-    pthread_destroy(&reader_mutex);
-    pthread_destroy(&writer_mutex);
+    pthread_mutex_destroy(&reader_count_mutex);
+    pthread_mutex_destroy(&reader_mutex);
+    pthread_mutex_destroy(&writer_mutex);
 
     return 0;
 }
