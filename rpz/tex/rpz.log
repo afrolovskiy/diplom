@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  29 MAY 2014 23:40
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  30 MAY 2014 00:17
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -1102,33 +1102,38 @@ File: inc/dia/generate-warnings.pdf Graphic file (type pdf)
 
 
 ]
-<inc/dia/sequence.pdf, id=554, 443.6575pt x 386.44376pt>
+Underfull \hbox (badness 1675) in paragraph at lines 33--34
+[]\T2A/ftm/m/n/12 Выбор был сде^^?лан в поль^^?зу ис^^?поль^^?зо^^?ва^^?ния про
+^^?ме^^?жу^^?точ^^?но^^?го пред^^?став^^?ле^^?ния
+ []
+
+[27] <inc/dia/sequence.pdf, id=558, 443.6575pt x 386.44376pt>
 File: inc/dia/sequence.pdf Graphic file (type pdf)
 
-<use inc/dia/sequence.pdf> [27]
-<inc/dia/components.pdf, id=561, 776.9025pt x 243.91125pt>
+<use inc/dia/sequence.pdf>
+<inc/dia/components.pdf, id=560, 776.9025pt x 243.91125pt>
 File: inc/dia/components.pdf Graphic file (type pdf)
 
-<use inc/dia/components.pdf>
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 91.
+<use inc/dia/components.pdf> [28 <./inc/dia/sequence.pdf>]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 99.
 
 
 (/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [28] [29 <./inc/dia/sequence.pdf> <./inc/dia/components.pdf>]
-Overfull \hbox (149.75815pt too wide) in paragraph at lines 118--118
+) [29 <./inc/dia/components.pdf>]
+Overfull \hbox (149.75815pt too wide) in paragraph at lines 126--126
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable <variab
 le-name> (<visibility>) on line <line>[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 130--130
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 138--138
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 37[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 130--130
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 138--138
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 19[] 
  []
@@ -1229,7 +1234,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  22813 strings out of 493848
  366751 string characters out of 1152823
- 503697 words of memory out of 3000000
+ 503695 words of memory out of 3000000
  24960 multiletter control sequences out of 15000+50000
  35520 words of font info for 84 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
@@ -1248,7 +1253,7 @@ usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share
 /texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr8a.pfb></usr/share/texmf/fo
 nts/type1/public/scalable-cyrfonts-tex/ftmri6w.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (43 pages, 1034564 bytes).
+Output written on rpz.pdf (43 pages, 1035461 bytes).
 PDF statistics:
  1020 PDF objects out of 1200 (max. 8388607)
  447 named destinations out of 1000 (max. 500000)
