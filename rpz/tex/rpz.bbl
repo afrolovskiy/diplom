@@ -19,9 +19,9 @@
 
 \bibitem{Peled}
 \selectlanguageifdefined{russian}
-\BibEmph{3.~Пелед~Д.~Грамберг~О.,~Кларк~Э.М.} 3.
-  Верификация моделей программ~/ Кларк~Э.М.~3.
-  Пелед~Д., Грамберг~О. ---
+\BibEmph{Пелед~Д.~Грамберг~О.,~Кларк~Э.М.}
+  Верификация моделей программ~/
+  Кларк~Э.М.~Пелед~Д., Грамберг~О. ---
 \newblock 2002.
 
 \bibitem{Kovega}
@@ -33,5 +33,28 @@
   \BibEmph{Инженерный журнал: наука и
   инновации.} ---
 \newblock 2013. \BibUrl{ http://engjournal.ru/catalog/it/hidden/549.html}.
+
+\bibitem{Vojdani}
+\selectlanguageifdefined{english}
+\BibEmph{V.,~Vojdani}. Static Data Race Analysis of Heap-Manipulating C
+  Programs: Ph.D. thesis~/ University of Tartu. ---
+\newblock 2010.
+
+\bibitem{Bootstrapping}
+\selectlanguageifdefined{english}
+\BibEmph{V.,~Kahlon}. Bootstrapping: a technique for scalable flow and
+  context-sensitive pointer alias analysis.~/ Kahlon~V.~// Proceeding of the
+  Proceedings of the 2008 ACM SIGPLAN conference on Programming language design
+  and implementation. ---
+\newblock 2008. ---
+\newblock Pp.~249--259.
+
+\bibitem{Steensgaard}
+\selectlanguageifdefined{english}
+\BibEmph{B.,~Steensgaard}. Points-to analysis in almost linear time.~/
+  Steensgaard~B.~// Proceeding of the POPL '96 Proceedings of the 23rd ACM
+  SIGPLAN-SIGACT symposium on Principles of programming languages. ---
+\newblock 1996. ---
+\newblock Pp.~32--41.
 
 \end{thebibliography}
