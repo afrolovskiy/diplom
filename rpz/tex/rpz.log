@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 13:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1237,7 +1237,10 @@ Overfull \hbox (26.2883pt too wide) in paragraph at lines 110--110
 global) on line 19[] 
  []
 
-) [35] [36] [37 <./inc/png/graphic5.pdf>]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
+)) [35] [36]
+[37 <./inc/png/graphic5.pdf>]
 \openout2 = `80-conclusion.aux'.
 
  (./80-conclusion.tex) [38
@@ -1247,8 +1250,8 @@ global) on line 19[]
 ]
 \openout2 = `81-biblio.aux'.
 
-
-(./81-biblio.tex (./rpz.bbl)) [39
+ (./81-biblio.tex
+(./rpz.bbl)) [39
 
 
 
@@ -1262,18 +1265,18 @@ global) on line 19[]
 ]
 \openout2 = `91-appendix2.aux'.
 
-
-(./91-appendix2.tex) [41
+ (./91-appendix2.tex) [41
 
 
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
- (./rpz.aux (./00-abstract.aux) (./10-defines.aux)
-(./11-abbrev.aux) (./12-intro.aux) (./20-analysis.aux) (./30-design.aux)
-(./40-impl.aux) (./50-research.aux) (./80-conclusion.aux) (./81-biblio.aux)
-(./90-appendix1.aux) (./91-appendix2.aux))
+
+(./rpz.aux (./00-abstract.aux) (./10-defines.aux) (./11-abbrev.aux)
+(./12-intro.aux) (./20-analysis.aux) (./30-design.aux) (./40-impl.aux)
+(./50-research.aux) (./80-conclusion.aux) (./81-biblio.aux) (./90-appendix1.aux
+) (./91-appendix2.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `rpz.out' has not changed.
@@ -1285,10 +1288,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 23300 strings out of 494808
- 377777 string characters out of 3177607
+ 23785 strings out of 494808
+ 382774 string characters out of 3177607
  547551 words of memory out of 3000000
- 25396 multiletter control sequences out of 15000+200000
+ 25878 multiletter control sequences out of 15000+200000
  22663 words of font info for 63 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  60i,11n,75p,3455b,2345s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1306,7 +1309,7 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (41 pages, 586464 bytes).
+Output written on rpz.pdf (41 pages, 587278 bytes).
 PDF statistics:
  1396 PDF objects out of 1440 (max. 8388607)
  883 compressed objects within 9 object streams
