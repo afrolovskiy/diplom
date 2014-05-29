@@ -34,7 +34,7 @@ void* run_thread2(void* args) {
 }
 
 int main(int argc, char** argv) {
-    pthread_t thread1, thread2
+    pthread_t thread1, thread2;
 
     pthread_mutex_init(&m1, NULL);
     pthread_mutex_init(&m2, NULL);
