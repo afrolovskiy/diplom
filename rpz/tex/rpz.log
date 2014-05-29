@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 13:27
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1225,25 +1225,37 @@ File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test3.c)) [35] [36 <./inc/png/graphic5.pdf>]
+(./inc/src/test3.c)
+Overfull \hbox (26.2883pt too wide) in paragraph at lines 110--110
+[]\T2A/cmtt/m/n/12 WARNING: Race condition when accessing the variable buffer (
+global) on line 37[] 
+ []
+
+
+Overfull \hbox (26.2883pt too wide) in paragraph at lines 110--110
+[]\T2A/cmtt/m/n/12 WARNING: Race condition when accessing the variable buffer (
+global) on line 19[] 
+ []
+
+) [35] [36] [37 <./inc/png/graphic5.pdf>]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex)
-[37
+ (./80-conclusion.tex) [38
 
 
 
 ]
 \openout2 = `81-biblio.aux'.
 
- (./81-biblio.tex (./rpz.bbl)) [38
+
+(./81-biblio.tex (./rpz.bbl)) [39
 
 
 
 ]
 \openout2 = `90-appendix1.aux'.
 
- (./90-appendix1.tex) [39
+ (./90-appendix1.tex) [40
 
 
 
@@ -1251,7 +1263,7 @@ File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 \openout2 = `91-appendix2.aux'.
 
 
-(./91-appendix2.tex) [40
+(./91-appendix2.tex) [41
 
 
 
@@ -1273,8 +1285,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 23299 strings out of 494808
- 377770 string characters out of 3177607
+ 23300 strings out of 494808
+ 377777 string characters out of 3177607
  547551 words of memory out of 3000000
  25396 multiletter control sequences out of 15000+200000
  22663 words of font info for 63 fonts, out of 3000000 for 9000
@@ -1294,10 +1306,10 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (40 pages, 584400 bytes).
+Output written on rpz.pdf (41 pages, 586464 bytes).
 PDF statistics:
- 1388 PDF objects out of 1440 (max. 8388607)
- 880 compressed objects within 9 object streams
- 439 named destinations out of 1000 (max. 500000)
+ 1396 PDF objects out of 1440 (max. 8388607)
+ 883 compressed objects within 9 object streams
+ 440 named destinations out of 1000 (max. 500000)
  476 words of extra memory for PDF output out of 10000 (max. 10000000)
 
