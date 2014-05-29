@@ -7,10 +7,31 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{Pup09}
+\bibitem{Kropacheva}
 \selectlanguageifdefined{russian}
-\BibEmph{Пупкин,~Василий}. \LaTeX для <<чайников>>~/
-  Василий~Пупкин, А.~Эйнштейн. ---
-\newblock М., 2009.
+\BibEmph{{Кропачева М.С.}} Формальная
+  верификация параллельных программ.~/
+  ~{Кропачева М.С.}~// \BibEmph{Исследования
+  наукограда.} ---
+\newblock 2012. ---
+\newblock {№} 2(2). ---
+\newblock {С.}~35--38.
+
+\bibitem{Peled}
+\selectlanguageifdefined{russian}
+\BibEmph{3.~Пелед~Д.~Грамберг~О.,~Кларк~Э.М.} 3.
+  Верификация моделей программ~/ Кларк~Э.М.~3.
+  Пелед~Д., Грамберг~О. ---
+\newblock 2002.
+
+\bibitem{Kovega}
+\selectlanguageifdefined{russian}
+\BibEmph{Ковега~Д.Н.,~Крищенко~В.А.}
+  Использование системы LLVM при
+  динамическом поиске состояний гонок в
+  программах.~/ Крищенко~В.А.~Ковега~Д.Н.~//
+  \BibEmph{Инженерный журнал: наука и
+  инновации.} ---
+\newblock 2013. \BibUrl{ http://engjournal.ru/catalog/it/hidden/549.html}.
 
 \end{thebibliography}
