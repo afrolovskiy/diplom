@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 14:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -936,30 +936,30 @@ LaTeX Font Info:    No file PUcmr.fd. on input line 2.
 LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
 (Font)              using `PU/pdf/m/n' instead on input line 2.
 
-)
+[2
+
+
+])
 \tf@toc=\write5
 \openout5 = `rpz.toc'.
 
- [2
-
-
-]
+ [3]
 \openout2 = `10-defines.aux'.
 
- (./10-defines.tex) [3
+ (./10-defines.tex) [4
 
 
 ]
 \openout2 = `11-abbrev.aux'.
 
- (./11-abbrev.tex) [4
+ (./11-abbrev.tex) [5
 
 
 
 ]
 \openout2 = `12-intro.aux'.
 
- (./12-intro.tex) [5
+ (./12-intro.tex) [6
 
 
 
@@ -983,7 +983,7 @@ File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/race.c
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
-[6
+[7
 
 
 
@@ -996,7 +996,7 @@ Underfull \hbox (badness 5970) in paragraph at lines 14--14
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/protected.c) [7] [8]
+(./inc/src/protected.c) [8] [9]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
@@ -1007,50 +1007,50 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/annotated2.cpp [9])
+(./inc/src/annotated2.cpp [10])
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/annotated3.cpp) [10]
+(./inc/src/annotated3.cpp) [11]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/munge.c [11]) [12] [13] [14]
+(./inc/src/munge.c [12]) [13] [14] [15]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2012/04/20 UCS: Unicode data U+2200..U+22FF
-) [15]
+) [16]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
 File: uni-33.def 2012/04/20 UCS: Unicode data U+2100..U+21FF
-)) [16]
+)) [17]
 \openout2 = `30-design.aux'.
 
 
-(./30-design.tex <inc/dia/idef0-black-box.pdf, id=441, 730.73pt x 371.3875pt>
+(./30-design.tex <inc/dia/idef0-black-box.pdf, id=470, 730.73pt x 371.3875pt>
 File: inc/dia/idef0-black-box.pdf Graphic file (type pdf)
 
 <use inc/dia/idef0-black-box.pdf>
 Package pdftex.def Info: inc/dia/idef0-black-box.pdf used on input line 21.
 (pdftex.def)             Requested size: 273.14923pt x 138.82228pt.
 
-<inc/dia/idef0.pdf, id=442, 1713.40125pt x 881.2925pt>
+<inc/dia/idef0.pdf, id=471, 1713.40125pt x 881.2925pt>
 File: inc/dia/idef0.pdf Graphic file (type pdf)
  <use inc/dia/idef0.pdf>
 Package pdftex.def Info: inc/dia/idef0.pdf used on input line 28.
 (pdftex.def)             Requested size: 455.24411pt x 234.14653pt.
 
-[17
+[18
 
 
 
  <./inc/dia/idef0-black-box.pdf>]
-<inc/dia/build-pathes.pdf, id=452, 1001.7425pt x 1030.85126pt>
+<inc/dia/build-pathes.pdf, id=481, 1001.7425pt x 1030.85126pt>
 File: inc/dia/build-pathes.pdf Graphic file (type pdf)
 
 <use inc/dia/build-pathes.pdf>
 Package pdftex.def Info: inc/dia/build-pathes.pdf used on input line 44.
 (pdftex.def)             Requested size: 455.24411pt x 468.4718pt.
- [18]
-<inc/dia/form-tables.pdf, id=459, 1890.06125pt x 795.97375pt>
+ [19]
+<inc/dia/form-tables.pdf, id=489, 1890.06125pt x 795.97375pt>
 File: inc/dia/form-tables.pdf Graphic file (type pdf)
 
 <use inc/dia/form-tables.pdf>
@@ -1076,28 +1076,28 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 84--85
 [] [] [] 
  []
 
-<inc/dia/aliases1.pdf, id=462, 202.7575pt x 173.64874pt>
+<inc/dia/aliases1.pdf, id=492, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases1.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases1.pdf>
 Package pdftex.def Info: inc/dia/aliases1.pdf used on input line 86.
 (pdftex.def)             Requested size: 101.3785pt x 86.82416pt.
 
-<inc/dia/aliases2.pdf, id=463, 202.7575pt x 60.225pt>
+<inc/dia/aliases2.pdf, id=493, 202.7575pt x 60.225pt>
 File: inc/dia/aliases2.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases2.pdf>
 Package pdftex.def Info: inc/dia/aliases2.pdf used on input line 88.
 (pdftex.def)             Requested size: 101.3785pt x 30.11241pt.
 
-<inc/dia/aliases3.pdf, id=464, 344.28625pt x 145.54375pt>
+<inc/dia/aliases3.pdf, id=494, 344.28625pt x 145.54375pt>
 File: inc/dia/aliases3.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases3.pdf>
 Package pdftex.def Info: inc/dia/aliases3.pdf used on input line 90.
 (pdftex.def)             Requested size: 172.1427pt x 72.77168pt.
 
-<inc/dia/aliases4.pdf, id=465, 202.7575pt x 173.64874pt>
+<inc/dia/aliases4.pdf, id=495, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases4.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases4.pdf>
@@ -1115,14 +1115,14 @@ Underfull \hbox (badness 1092) in paragraph at lines 94--94
 A/cmr/m/n/12 из
  []
 
-<inc/dia/aliases5.pdf, id=466, 202.7575pt x 173.64874pt>
+<inc/dia/aliases5.pdf, id=496, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases5.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases5.pdf>
 Package pdftex.def Info: inc/dia/aliases5.pdf used on input line 94.
 (pdftex.def)             Requested size: 101.3785pt x 86.82416pt.
 
-<inc/dia/aliases6.pdf, id=467, 344.28625pt x 173.64874pt>
+<inc/dia/aliases6.pdf, id=497, 344.28625pt x 173.64874pt>
 File: inc/dia/aliases6.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases6.pdf>
@@ -1133,19 +1133,19 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 85--97
 [] [] [] 
  []
 
-[19 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf> <./inc/dia/aliases3.pdf>]
+[20 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf> <./inc/dia/aliases3.pdf>]
 
 Underfull \hbox (badness 2376) in paragraph at lines 102--103
 []\T2A/cmr/m/n/12 Под от^^?но^^?си^^?тель^^?ным мно^^?же^^?ством бло^^?ки^^?ро^
 ^?вок $\OML/cmm/m/it/12 L$ \T2A/cmr/m/n/12 бу^^?дем по^^?ни^^?мать па^^?ру
  []
 
-[20 <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.pdf> <./inc/dia/aliases6.pdf>]
-[21]) [22] [23 <./inc/dia/idef0.pdf>] [24 <./inc/dia/build-pathes.pdf>]
-[25 <./inc/dia/form-tables.pdf>]
+[21 <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.pdf> <./inc/dia/aliases6.pdf>]
+[22]) [23] [24 <./inc/dia/idef0.pdf>] [25 <./inc/dia/build-pathes.pdf>]
+[26 <./inc/dia/form-tables.pdf>]
 \openout2 = `40-impl.aux'.
 
- (./40-impl.tex) [26
+ (./40-impl.tex) [27
 
 
 
@@ -1156,7 +1156,7 @@ Underfull \hbox (badness 2376) in paragraph at lines 102--103
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/readers-writers.c [27
+(./inc/src/readers-writers.c [28
 
 
 
@@ -1171,42 +1171,42 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
- [28])
-<inc/png/graphic1.pdf, id=607, 440.34915pt x 331.95619pt>
+ [29])
+<inc/png/graphic1.pdf, id=636, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
 <use inc/png/graphic1.pdf>
 Package pdftex.def Info: inc/png/graphic1.pdf used on input line 34.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic2.pdf, id=608, 440.34915pt x 331.95619pt>
+<inc/png/graphic2.pdf, id=637, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
 Package pdftex.def Info: inc/png/graphic2.pdf used on input line 41.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic3.pdf, id=609, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=638, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
 Package pdftex.def Info: inc/png/graphic3.pdf used on input line 48.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic4.pdf, id=610, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=639, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
 Package pdftex.def Info: inc/png/graphic4.pdf used on input line 55.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
 
-<inc/png/graphic5.pdf, id=611, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=640, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
 <use inc/png/graphic5.pdf>
 Package pdftex.def Info: inc/png/graphic5.pdf used on input line 62.
 (pdftex.def)             Requested size: 409.71692pt x 308.86295pt.
- [29] [30 <./inc/png/graphic1.pdf> <./inc/png/graphic2.pdf>] [31 <./inc/png/gra
+ [30] [31 <./inc/png/graphic1.pdf> <./inc/png/graphic2.pdf>] [32 <./inc/png/gra
 phic3.pdf> <./inc/png/graphic4.pdf>]
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 75.
 
@@ -1217,11 +1217,11 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test1.c [32]) [33]
+(./inc/src/test1.c [33]) [34]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test2.c) [34]
+(./inc/src/test2.c) [35]
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
@@ -1239,11 +1239,11 @@ global) on line 19[]
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
-)) [35] [36]
-[37 <./inc/png/graphic5.pdf>]
+)) [36] [37]
+[38 <./inc/png/graphic5.pdf>]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [38
+ (./80-conclusion.tex) [39
 
 
 
@@ -1251,21 +1251,21 @@ File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex
-(./rpz.bbl)) [39
+(./rpz.bbl)) [40
 
 
 
 ]
 \openout2 = `90-appendix1.aux'.
 
- (./90-appendix1.tex) [40
+ (./90-appendix1.tex) [41
 
 
 
 ]
 \openout2 = `91-appendix2.aux'.
 
- (./91-appendix2.tex) [41
+ (./91-appendix2.tex) [42
 
 
 
@@ -1280,7 +1280,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `rpz.out' has not changed.
-(rerunfilecheck)             Checksum: 5A0D08051C4F24E132EB0191A2978E5B;8030.
+(rerunfilecheck)             Checksum: 4A314F8D8D0BB85D63FBE517AE653F77;9798.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1288,10 +1288,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 23785 strings out of 494808
- 382774 string characters out of 3177607
- 547551 words of memory out of 3000000
- 25878 multiletter control sequences out of 15000+200000
+ 23796 strings out of 494808
+ 382901 string characters out of 3177607
+ 547553 words of memory out of 3000000
+ 25883 multiletter control sequences out of 15000+200000
  22663 words of font info for 63 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  60i,11n,75p,3455b,2345s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1309,10 +1309,10 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (41 pages, 587278 bytes).
+Output written on rpz.pdf (42 pages, 589305 bytes).
 PDF statistics:
- 1396 PDF objects out of 1440 (max. 8388607)
- 883 compressed objects within 9 object streams
- 440 named destinations out of 1000 (max. 500000)
- 476 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1429 PDF objects out of 1440 (max. 8388607)
+ 912 compressed objects within 10 object streams
+ 446 named destinations out of 1000 (max. 500000)
+ 516 words of extra memory for PDF output out of 10000 (max. 10000000)
 
