@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  29 MAY 2014 23:38
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  29 MAY 2014 23:40
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -1228,7 +1228,7 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  22813 strings out of 493848
- 366741 string characters out of 1152823
+ 366751 string characters out of 1152823
  503697 words of memory out of 3000000
  24960 multiletter control sequences out of 15000+50000
  35520 words of font info for 84 fonts, out of 3000000 for 9000
@@ -1248,7 +1248,7 @@ usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb></usr/share
 /texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr8a.pfb></usr/share/texmf/fo
 nts/type1/public/scalable-cyrfonts-tex/ftmri6w.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (43 pages, 1034553 bytes).
+Output written on rpz.pdf (43 pages, 1034564 bytes).
 PDF statistics:
  1020 PDF objects out of 1200 (max. 8388607)
  447 named destinations out of 1000 (max. 500000)
