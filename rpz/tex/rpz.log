@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 14:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1146,13 +1146,13 @@ Underfull \hbox (badness 2376) in paragraph at lines 102--103
 \openout2 = `40-impl.aux'.
 
  (./40-impl.tex
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 24.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 28.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 2903) in paragraph at lines 33--34
+Underfull \hbox (badness 2903) in paragraph at lines 37--38
 []\T2A/cmr/bx/n/12 <path-to-gcc-python-plugin-lib> \T2A/cmr/m/n/12 - путь до би
 б^^?лио^^?те^^?ки \T2A/cmr/bx/n/12 gcc-^^?python-^^?
  []
@@ -1162,19 +1162,19 @@ Underfull \hbox (badness 2903) in paragraph at lines 33--34
 
 
 ]
-Overfull \hbox (149.75815pt too wide) in paragraph at lines 51--51
+Overfull \hbox (149.75815pt too wide) in paragraph at lines 55--55
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable <variab
 le-name> (<visibility>) on line <line>[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 63--63
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 67--67
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 37[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 63--63
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 67--67
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 19[] 
  []
@@ -1304,7 +1304,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `rpz.out' has not changed.
-(rerunfilecheck)             Checksum: 25DC51713730C0DA937D721604EDF7FB;9901.
+(rerunfilecheck)             Checksum: D350790D9C850D67B0A721E56C10C7DC;9898.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1333,7 +1333,7 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (43 pages, 595098 bytes).
+Output written on rpz.pdf (43 pages, 595231 bytes).
 PDF statistics:
  1453 PDF objects out of 1728 (max. 8388607)
  921 compressed objects within 10 object streams
