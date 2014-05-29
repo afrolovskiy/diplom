@@ -58,7 +58,7 @@ llvm vs gimple vs java byte code.
 
 \begin{figure}
   \centering
-  \includegraphics[width=0.8\textwidth]{inc/dia/sequence}
+  \includegraphics[width=0.5\textwidth]{inc/dia/sequence}
   \caption{Диаграмма последдовательности анализатора}
   \label{fig:sequence}
 \end{figure}
@@ -67,13 +67,22 @@ llvm vs gimple vs java byte code.
 
 Для возможности реализации разработанного метода на анализируемый исходный код накладываются следующие ограничения:
 \begin{itemize}
-  \item tra-ta-ta-ta
+  \item использование POSIX API для работы с потоками и объектами взаимоисключения,
+  \item отсутствие обращений к полям структур.
 \end{itemize}
 
-\section{Cтруктура ПО}
-Диаграмма компонентов
+Создание потоков необходимо выполнять при помощи функции \textbf{pthread\_create}. Для взаимодействия с объектами синхронизации необходимо использовать следующие функции:
+\begin{itemize}
+  \item \textbf{sem\_wait} - ожидание освобождения и захват семафора,
+  \item \textbf{sem\_post} - освобождение семафора,
+  \item \textbf{pthread\_mutex\_lock} - захват мьютекса,
+  \item \textbf{pthread\_mutex\_unlock} - освобождение мьютеса.
+\end{itemize}
 
-Структура разработанного программного обеспечения представлена на рис.~\ref{fig:components}.
+
+\section{Cтруктура ПО}
+
+Разработанный статический анализатор кода выполнен в виде загружаемого модуля к компилятору gcc. Структура разработанного программного обеспечения представлена на рис.~\ref{fig:components}.
 
 \begin{figure}
   \centering
@@ -128,4 +137,4 @@ WARNING: Race condition when acccessing the variable buffer (global) on line 19
 
 \section{Выводы}
 
-бла-бла
+Разработано прораммное обеспечение, реализующее предложенный метод статического поиска гонок на основе относительного множества блокировок. Представлено обоснование выбора средств написания и библиотек для написания анализатора.

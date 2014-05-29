@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 19:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.28)  29 MAY 2014 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1146,44 +1146,50 @@ File: inc/dia/sequence.pdf Graphic file (type pdf)
 
 <use inc/dia/sequence.pdf>
 Package pdftex.def Info: inc/dia/sequence.pdf used on input line 61.
-(pdftex.def)             Requested size: 364.19667pt x 317.22794pt.
+(pdftex.def)             Requested size: 227.62206pt x 198.26303pt.
  [26]
-Underfull \hbox (badness 2103) in paragraph at lines 76--77
-[]\T2A/cmr/m/n/12 Структура раз^^?ра^^?бо^^?тан^^?но^^?го про^^?грамм^^?но^^?го
- обес^^?пе^^?че^^?ния пред^^?став^^?ле^^?на на
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]\T2A/cmr/m/n/12 Создание по^^?то^^?ков необ^^?хо^^?ди^^?мо вы^^?пол^^?нять пр
+и по^^?мо^^?щи функ^^?ции
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 74--75
+\T2A/cmr/bx/n/12 pthread_create\T2A/cmr/m/n/12 . Для вза^^?и^^?мо^^?дей^^?ствия
+ с объ^^?ек^^?та^^?ми син^^?хро^^?ни^^?за^^?ции необ^^?хо^^?ди^^?мо
  []
 
 <inc/dia/components.pdf, id=566, 776.9025pt x 243.91125pt>
 File: inc/dia/components.pdf Graphic file (type pdf)
 
 <use inc/dia/components.pdf>
-Package pdftex.def Info: inc/dia/components.pdf used on input line 80.
+Package pdftex.def Info: inc/dia/components.pdf used on input line 89.
 (pdftex.def)             Requested size: 364.19667pt x 114.34427pt.
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 88.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 97.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 2903) in paragraph at lines 97--98
+Underfull \hbox (badness 2903) in paragraph at lines 106--107
 []\T2A/cmr/bx/n/12 <path-to-gcc-python-plugin-lib> \T2A/cmr/m/n/12 - путь до би
 б^^?лио^^?те^^?ки \T2A/cmr/bx/n/12 gcc-^^?python-^^?
  []
 
-
-Overfull \hbox (149.75815pt too wide) in paragraph at lines 115--115
+[27] [28 <./inc/dia/sequence.pdf> <./inc/dia/components.pdf>]
+Overfull \hbox (149.75815pt too wide) in paragraph at lines 124--124
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable <variab
 le-name> (<visibility>) on line <line>[] 
  []
 
-[27] [28 <./inc/dia/sequence.pdf> <./inc/dia/components.pdf>]
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 127--127
+
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 136--136
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 37[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 127--127
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 136--136
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 19[] 
  []
@@ -1326,9 +1332,9 @@ public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rpz.pdf (42 pages, 618575 bytes).
+Output written on rpz.pdf (42 pages, 619932 bytes).
 PDF statistics:
- 1460 PDF objects out of 1728 (max. 8388607)
+ 1462 PDF objects out of 1728 (max. 8388607)
  931 compressed objects within 10 object streams
  447 named destinations out of 1000 (max. 500000)
  550 words of extra memory for PDF output out of 10000 (max. 10000000)
