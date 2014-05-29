@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  30 MAY 2014 01:11
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  30 MAY 2014 02:38
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -1023,78 +1023,79 @@ File: inc/dia/idef0.pdf Graphic file (type pdf)
 <inc/dia/build-pathes.pdf, id=473, 998.73125pt x 1027.84pt>
 File: inc/dia/build-pathes.pdf Graphic file (type pdf)
 
-<use inc/dia/build-pathes.pdf> [16] [17 <./inc/dia/idef0.pdf> <./inc/dia/build-
-pathes.pdf>] <inc/dia/form-tables.pdf, id=488, 1890.06125pt x 795.97375pt>
+<use inc/dia/build-pathes.pdf> [16]
+<inc/dia/form-tables.pdf, id=480, 1890.06125pt x 795.97375pt>
 File: inc/dia/form-tables.pdf Graphic file (type pdf)
 
 <use inc/dia/form-tables.pdf>
-Overfull \hbox (37.59302pt too wide) in alignment at lines 88--93
+Overfull \hbox (37.59302pt too wide) in alignment at lines 87--92
 [] [] [] 
  []
 
 
-Overfull \hbox (37.59302pt too wide) in alignment at lines 93--95
+Overfull \hbox (37.59302pt too wide) in alignment at lines 92--94
 [] [] [] 
  []
 
 
-Overfull \hbox (37.59302pt too wide) in alignment at lines 95--97
+Overfull \hbox (37.59302pt too wide) in alignment at lines 94--96
 [] [] [] 
  []
 
 
-Overfull \hbox (37.59302pt too wide) in alignment at lines 97--98
+Overfull \hbox (37.59302pt too wide) in alignment at lines 96--97
 [] [] [] 
  []
 
-<inc/dia/aliases1.pdf, id=491, 202.7575pt x 173.64874pt>
+<inc/dia/aliases1.pdf, id=483, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases1.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases1.pdf>
-<inc/dia/aliases2.pdf, id=492, 202.7575pt x 60.225pt>
+<inc/dia/aliases2.pdf, id=484, 202.7575pt x 60.225pt>
 File: inc/dia/aliases2.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases2.pdf>
-<inc/dia/aliases3.pdf, id=493, 344.28625pt x 145.54375pt>
+<inc/dia/aliases3.pdf, id=485, 344.28625pt x 145.54375pt>
 File: inc/dia/aliases3.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases3.pdf>
-<inc/dia/aliases4.pdf, id=494, 202.7575pt x 173.64874pt>
+<inc/dia/aliases4.pdf, id=486, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases4.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases4.pdf>
-<inc/dia/aliases5.pdf, id=495, 202.7575pt x 173.64874pt>
+<inc/dia/aliases5.pdf, id=487, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases5.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases5.pdf>
-<inc/dia/aliases6.pdf, id=496, 344.28625pt x 173.64874pt>
+<inc/dia/aliases6.pdf, id=488, 344.28625pt x 173.64874pt>
 File: inc/dia/aliases6.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases6.pdf>
-Overfull \hbox (37.59302pt too wide) in alignment at lines 98--110
+Overfull \hbox (37.59302pt too wide) in alignment at lines 97--109
 [] [] [] 
  []
 
-[18 <./inc/dia/form-tables.pdf> <./inc/dia/aliases1.pdf>] [19 <./inc/dia/aliase
-s2.pdf> <./inc/dia/aliases3.pdf> <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.p
-df>] <inc/dia/build-relative-lockset.pdf, id=521, 999.735pt x 914.41624pt>
+[17 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf> <./inc/dia/aliases3.pdf>]
+[18 <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.pdf> <./inc/dia/aliases6.pdf>]
+<inc/dia/build-relative-lockset.pdf, id=512, 999.735pt x 914.41624pt>
 File: inc/dia/build-relative-lockset.pdf Graphic file (type pdf)
 
-<use inc/dia/build-relative-lockset.pdf> [20 <./inc/dia/aliases6.pdf>] [21 <./i
-nc/dia/build-relative-lockset.pdf>]
+<use inc/dia/build-relative-lockset.pdf>
 
-LaTeX Warning: Reference `fig:udpate-access' on page 22 undefined on input line
- 135.
+LaTeX Warning: Reference `fig:udpate-access' on page 19 undefined on input line
+ 134.
 
-<inc/dia/update-access.pdf, id=537, 999.735pt x 885.3075pt>
+[19] <inc/dia/update-access.pdf, id=521, 999.735pt x 885.3075pt>
 File: inc/dia/update-access.pdf Graphic file (type pdf)
 
-<use inc/dia/update-access.pdf> [22] [23 <./inc/dia/update-access.pdf>]
-<inc/dia/generate-warnings.pdf, id=552, 1203.49625pt x 1198.4775pt>
+<use inc/dia/update-access.pdf>
+<inc/dia/generate-warnings.pdf, id=524, 1203.49625pt x 1198.4775pt>
 File: inc/dia/generate-warnings.pdf Graphic file (type pdf)
 
-<use inc/dia/generate-warnings.pdf>) [24 <./inc/dia/generate-warnings.pdf>]
-[25]
+<use inc/dia/generate-warnings.pdf>) [20] [21 <./inc/dia/idef0.pdf>] [22 <./inc
+/dia/build-pathes.pdf>] [23 <./inc/dia/form-tables.pdf> <./inc/dia/build-relati
+ve-lockset.pdf>] [24 <./inc/dia/update-access.pdf>] [25 <./inc/dia/generate-war
+nings.pdf>]
 \openout2 = `40-impl.aux'.
 
  (./40-impl.tex [26
@@ -1107,33 +1108,33 @@ Underfull \hbox (badness 1675) in paragraph at lines 33--34
 ^^?ме^^?жу^^?точ^^?но^^?го пред^^?став^^?ле^^?ния
  []
 
-[27] <inc/dia/sequence.pdf, id=574, 443.6575pt x 386.44376pt>
+[27] <inc/dia/sequence.pdf, id=573, 443.6575pt x 386.44376pt>
 File: inc/dia/sequence.pdf Graphic file (type pdf)
 
 <use inc/dia/sequence.pdf>
-<inc/dia/components.pdf, id=576, 776.9025pt x 243.91125pt>
+<inc/dia/components.pdf, id=575, 776.9025pt x 243.91125pt>
 File: inc/dia/components.pdf Graphic file (type pdf)
 
 <use inc/dia/components.pdf> [28 <./inc/dia/sequence.pdf>]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 99.
-
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 100
+.
 
 (/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) [29 <./inc/dia/components.pdf>]
-Overfull \hbox (149.75815pt too wide) in paragraph at lines 126--126
+Overfull \hbox (149.75815pt too wide) in paragraph at lines 127--127
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable <variab
 le-name> (<visibility>) on line <line>[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 138--138
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 139--139
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 37[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 138--138
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 139--139
 []\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
 (global) on line 19[] 
  []
@@ -1163,34 +1164,35 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
  [32])
-<inc/png/graphic1.pdf, id=682, 440.34915pt x 331.95619pt>
+<inc/png/graphic1.pdf, id=681, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
 <use inc/png/graphic1.pdf>
-<inc/png/graphic2.pdf, id=683, 440.34915pt x 331.95619pt>
+<inc/png/graphic2.pdf, id=682, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
-<inc/png/graphic3.pdf, id=684, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=683, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
-<inc/png/graphic4.pdf, id=685, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=684, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
-<inc/png/graphic5.pdf, id=686, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=685, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
-<use inc/png/graphic5.pdf> [33] [34 <./inc/png/graphic1.pdf> <./inc/png/graphic
-2.pdf>] [35 <./inc/png/graphic3.pdf> <./inc/png/graphic4.pdf>]
+<use inc/png/graphic5.pdf> [33] [34 <./inc/png/graphic1.pdf>] [35 <./inc/png/gr
+aphic2.pdf>] [36 <./inc/png/graphic3.pdf>] [37 <./inc/png/graphic4.pdf>]
+[38 <./inc/png/graphic5.pdf>]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test1.c
-[36]) [37] (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
+[39]) [40] (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test2.c) [38]
+(./inc/src/test2.c) [41]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test3.c)
@@ -1207,10 +1209,11 @@ global) on line 19[]
 
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
-)) [39] [40] [41 <./inc/png/graphic5.pdf>]
+)) [42] [43]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [42
+
+(./80-conclusion.tex) [44
 
 
 
@@ -1223,7 +1226,7 @@ Underfull \hbox (badness 1448) in paragraph at lines 22--26
 ^?фи^^?ка^^?ция мо^^?де^^?лей про^^?грамм /
  []
 
-)) [43
+)) [45
 
 
 
@@ -1237,8 +1240,8 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 22823 strings out of 493848
- 366891 string characters out of 1152823
+ 22825 strings out of 493848
+ 366905 string characters out of 1152823
  503910 words of memory out of 3000000
  24967 multiletter control sequences out of 15000+50000
  33654 words of font info for 80 fonts, out of 3000000 for 9000
@@ -1256,9 +1259,9 @@ e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-c
 yrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-t
 ex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6
 w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (43 pages, 1024258 bytes).
+Output written on rpz.pdf (45 pages, 1026358 bytes).
 PDF statistics:
- 1034 PDF objects out of 1200 (max. 8388607)
- 454 named destinations out of 1000 (max. 500000)
+ 1041 PDF objects out of 1200 (max. 8388607)
+ 456 named destinations out of 1000 (max. 500000)
  541 words of extra memory for PDF output out of 10000 (max. 10000000)
 
