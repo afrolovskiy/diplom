@@ -66,4 +66,10 @@
 \newblock 2007. ---
 \newblock Pp.~205--214.
 
+\bibitem{Kernigan}
+\selectlanguageifdefined{english}
+\BibEmph{Kernighan~B.W.,~Ritchie~D.M.} The C Programming Language, 2nd
+  Edition.~/ Ritchie~D.M.~Kernighan~B.W. ---
+\newblock Prentice Hall Professional Technical Reference, 1988.
+
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  30 MAY 2014 01:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  30 MAY 2014 01:11
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -1086,11 +1086,11 @@ nc/dia/build-relative-lockset.pdf>]
 LaTeX Warning: Reference `fig:udpate-access' on page 22 undefined on input line
  135.
 
-<inc/dia/update-access.pdf, id=536, 999.735pt x 885.3075pt>
+<inc/dia/update-access.pdf, id=537, 999.735pt x 885.3075pt>
 File: inc/dia/update-access.pdf Graphic file (type pdf)
 
 <use inc/dia/update-access.pdf> [22] [23 <./inc/dia/update-access.pdf>]
-<inc/dia/generate-warnings.pdf, id=550, 1203.49625pt x 1198.4775pt>
+<inc/dia/generate-warnings.pdf, id=552, 1203.49625pt x 1198.4775pt>
 File: inc/dia/generate-warnings.pdf Graphic file (type pdf)
 
 <use inc/dia/generate-warnings.pdf>) [24 <./inc/dia/generate-warnings.pdf>]
@@ -1107,11 +1107,11 @@ Underfull \hbox (badness 1675) in paragraph at lines 33--34
 ^^?ме^^?жу^^?точ^^?но^^?го пред^^?став^^?ле^^?ния
  []
 
-[27] <inc/dia/sequence.pdf, id=572, 443.6575pt x 386.44376pt>
+[27] <inc/dia/sequence.pdf, id=574, 443.6575pt x 386.44376pt>
 File: inc/dia/sequence.pdf Graphic file (type pdf)
 
 <use inc/dia/sequence.pdf>
-<inc/dia/components.pdf, id=574, 776.9025pt x 243.91125pt>
+<inc/dia/components.pdf, id=576, 776.9025pt x 243.91125pt>
 File: inc/dia/components.pdf Graphic file (type pdf)
 
 <use inc/dia/components.pdf> [28 <./inc/dia/sequence.pdf>]
@@ -1163,23 +1163,23 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
  [32])
-<inc/png/graphic1.pdf, id=680, 440.34915pt x 331.95619pt>
+<inc/png/graphic1.pdf, id=682, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
 <use inc/png/graphic1.pdf>
-<inc/png/graphic2.pdf, id=681, 440.34915pt x 331.95619pt>
+<inc/png/graphic2.pdf, id=683, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
-<inc/png/graphic3.pdf, id=682, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=684, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
-<inc/png/graphic4.pdf, id=683, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=685, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
-<inc/png/graphic5.pdf, id=684, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=686, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
 <use inc/png/graphic5.pdf> [33] [34 <./inc/png/graphic1.pdf> <./inc/png/graphic
@@ -1237,10 +1237,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 22821 strings out of 493848
- 366868 string characters out of 1152823
- 503880 words of memory out of 3000000
- 24966 multiletter control sequences out of 15000+50000
+ 22823 strings out of 493848
+ 366891 string characters out of 1152823
+ 503910 words of memory out of 3000000
+ 24967 multiletter control sequences out of 15000+50000
  33654 words of font info for 80 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  60i,11n,75p,3489b,2317s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1256,9 +1256,9 @@ e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-c
 yrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-t
 ex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6
 w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (43 pages, 1023620 bytes).
+Output written on rpz.pdf (43 pages, 1024258 bytes).
 PDF statistics:
- 1032 PDF objects out of 1200 (max. 8388607)
- 453 named destinations out of 1000 (max. 500000)
+ 1034 PDF objects out of 1200 (max. 8388607)
+ 454 named destinations out of 1000 (max. 500000)
  541 words of extra memory for PDF output out of 10000 (max. 10000000)
 
