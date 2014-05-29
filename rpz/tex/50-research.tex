@@ -75,13 +75,19 @@
 
 Вывод программы при значение флага $WITH\_MAIN$, равным $'true'$:
 \begin{verbatim}
-Вывод.
+WARNING: Race condition when accessing the variable y (global) on line 34
+WARNING: Race condition when accessing the variable x (global) on line 34
+WARNING: Race condition when accessing the variable z (global) on line 34
+WARNING: Race condition when accessing the variable y (global) on line 8
+WARNING: Race condition when accessing the variable x (global) on line 8
+WARNING: Race condition when accessing the variable z (global) on line 8
 \end{verbatim}
 (объяснение результатов)
 
 Вывод программы при значение флага $WITH\_MAIN$, равным $'false'$:
 \begin{verbatim}
-Вывод.
+WARNING: Race condition when accessing the variable y (global) on line 8
+WARNING: Race condition when accessing the variable z (global) on line 8
 \end{verbatim}
 (объяснение результатов)
 
