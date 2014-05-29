@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {1.1}\IeC {\CYRP }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyrya }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrs }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyru }\IeC {\cyra }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyri } \IeC {\cyrg }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyri }}{6}{section.1.1}
 \contentsline {section}{\numberline {1.2}\IeC {\CYRS }\IeC {\cyru }\IeC {\cyrshch }\IeC {\cyre }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }\IeC {\cyru }\IeC {\cyryu }\IeC {\cyrshch }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrm }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrery } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra } \IeC {\cyrg }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrk }}{7}{section.1.2}
 \contentsline {section}{\numberline {1.3}\IeC {\CYRS }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrch }\IeC {\cyre }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrm }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrery } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra } \IeC {\cyrg }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrk }}{8}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Locksmith}{12}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.1}Locksmith}{13}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}CoBE}{13}{subsection.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}Relay}{14}{subsection.1.3.3}
 \contentsline {section}{\numberline {1.4}\IeC {\CYRV }\IeC {\cyrery }\IeC {\cyrv }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrery }}{16}{section.1.4}
@@ -25,7 +25,7 @@
 \contentsline {section}{\numberline {4.2}\IeC {\CYRI }\IeC {\cyrs }\IeC {\cyrs }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrs }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyrh }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrk }}{27}{section.4.2}
 \contentsline {section}{\numberline {4.3}\IeC {\CYRI }\IeC {\cyrs }\IeC {\cyrs }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrt }\IeC {\cyro }\IeC {\cyrch }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri }}{29}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyrm }\IeC {\cyra } 1}{29}{subsection.4.3.1}
-\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{35}{section*.15}
-\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{36}{section*.16}
-\contentsline {chapter}{\numberline {\CYRA }\IeC {\CYRK }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyri }}{37}{appendix.A}
-\contentsline {chapter}{\numberline {\CYRB }\IeC {\CYRE }\IeC {\cyrshch }\IeC {\cyre } \IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyri }}{38}{appendix.B}
+\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{34}{section*.15}
+\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{35}{section*.16}
+\contentsline {chapter}{\numberline {\CYRA }\IeC {\CYRK }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyri }}{36}{appendix.A}
+\contentsline {chapter}{\numberline {\CYRB }\IeC {\CYRE }\IeC {\cyrshch }\IeC {\cyre } \IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyri }}{37}{appendix.B}

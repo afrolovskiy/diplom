@@ -25,7 +25,7 @@ void* run_thread2(void* args) {
 void* run_thread3(void* args) {
     munge(&x, &m1);
     munge(&y, &m2);
-    munge(&z, m1);
+    munge(&z, &m1);
     return NULL;
 }
 
