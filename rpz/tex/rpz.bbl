@@ -57,4 +57,13 @@
 \newblock 1996. ---
 \newblock Pp.~32--41.
 
+\bibitem{Relay}
+\selectlanguageifdefined{english}
+\BibEmph{Voung~J.W.~Jhala~R.,~Lerner~S.} RELAY: static race detection on
+  millions of lines of code.~/ Lerner~S.~Voung~J.W., Jhala~R.~// Proceedings of
+  the 6th joint meeting of the European software engineering conference and the
+  ACM SIGSOFT symposium on The foundations of software engineering. ---
+\newblock 2007. ---
+\newblock Pp.~205--214.
+
 \end{thebibliography}
