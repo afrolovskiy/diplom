@@ -1,5 +1,6 @@
 This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: rpz.aux
+A level-1 auxiliary file: 00-abstract.aux
 A level-1 auxiliary file: 12-intro.aux
 A level-1 auxiliary file: 20-analysis.aux
 A level-1 auxiliary file: 30-design.aux
@@ -11,7 +12,7 @@ The style file: gost780u.bst
 Database file #1: rpz.bib
 You've used 8 entries,
             2674 wiz_defined-function locations,
-            698 strings with 6680 characters,
+            699 strings with 6695 characters,
 and the built_in function-call counts, 2562 in all, are:
 = -- 361
 > -- 29

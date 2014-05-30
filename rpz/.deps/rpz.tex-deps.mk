@@ -1,1 +1,1 @@
-rpz.pdf: tex/preamble.inc.tex tex/listings.inc.tex tex/macros.inc.tex tex/12-intro.tex tex/20-analysis.tex tex/30-design.tex tex/40-impl.tex tex/50-research.tex tex/80-conclusion.tex tex/81-biblio.tex
+rpz.pdf: tex/preamble.inc.tex tex/listings.inc.tex tex/macros.inc.tex tex/00-abstract.tex tex/12-intro.tex tex/20-analysis.tex tex/30-design.tex tex/40-impl.tex tex/50-research.tex tex/80-conclusion.tex tex/81-biblio.tex
