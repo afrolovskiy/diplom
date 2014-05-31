@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  31 MAY 2014 00:40
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  31 MAY 2014 16:24
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -1115,12 +1115,8 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 97--109
 <inc/dia/build-relative-lockset.pdf, id=558, 999.735pt x 914.41624pt>
 File: inc/dia/build-relative-lockset.pdf Graphic file (type pdf)
 
-<use inc/dia/build-relative-lockset.pdf>
-
-LaTeX Warning: Reference `fig:udpate-access' on page 22 undefined on input line
- 134.
-
-[22] <inc/dia/update-access.pdf, id=566, 999.735pt x 885.3075pt>
+<use inc/dia/build-relative-lockset.pdf> [22]
+<inc/dia/update-access.pdf, id=567, 999.735pt x 885.3075pt>
 File: inc/dia/update-access.pdf Graphic file (type pdf)
 
 <use inc/dia/update-access.pdf>
@@ -1250,15 +1246,12 @@ Underfull \hbox (badness 1448) in paragraph at lines 22--26
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 22882 strings out of 493848
- 367827 string characters out of 1152823
- 508251 words of memory out of 3000000
- 24980 multiletter control sequences out of 15000+50000
+ 22881 strings out of 493848
+ 367808 string characters out of 1152823
+ 508253 words of memory out of 3000000
+ 24979 multiletter control sequences out of 15000+50000
  33654 words of font info for 80 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  60i,11n,75p,3489b,2317s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1274,7 +1267,7 @@ e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-c
 yrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-t
 ex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6
 w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (48 pages, 1059176 bytes).
+Output written on rpz.pdf (48 pages, 1058973 bytes).
 PDF statistics:
  1093 PDF objects out of 1200 (max. 8388607)
  487 named destinations out of 1000 (max. 500000)
