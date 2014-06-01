@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  1 JUN 2014 19:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  1 JUN 2014 19:01
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -17,8 +17,8 @@ Document Class: G7-32 2003/07/01 v1.0 Non Standard LaTeX document class
 (./G2-105.sty
 Package: G2-105 2003/07/07 v1.00 General reqs. GOST 2.105-95
  (./GostBase.clo
-(/usr/share/texmf-texlive/tex/latex/base/size12.clo
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texmf-texlive/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 ))
 \c@totalpage=\count79
 \c@totaltable=\count80
@@ -813,14 +813,14 @@ driver: pdftex
 \textheight 731.23584pt
 \oddsidemargin  13.08827pt
 \evensidemargin 13.08827pt
-\topmargin  -27.36449pt
-\headheight 12.0pt
+\topmargin  -29.36449pt
+\headheight 14.0pt
 \headsep    0.0pt
 \footskip   30.0pt
-\marginparwidth 35.0pt
+\marginparwidth 15.0pt
 \marginparsep   10.0pt
 \columnsep  10.0pt
-\skip\footins  10.8pt plus 4.0pt minus 2.0pt
+\skip\footins  12.0pt plus 4.0pt minus 2.0pt
 \hoffset 0.0pt
 \voffset 0.0pt
 \mag 1000
@@ -861,9 +861,9 @@ LaTeX Info: Redefining \pageref on input line 15.
 \openout2 = `00-abstract.aux'.
 
  (./00-abstract.tex
-LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
-(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
+(Font)              Font shape `T2A/ftm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <17.28> not available
 (Font)              Font shape `T2A/ftm/b/n' tried instead on input line 1.
 
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-4.def
@@ -902,22 +902,22 @@ LaTeX Font Info:    Try loading font information for OML+cmr on input line 2.
 (/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2.
 
 (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for PD1+cmr on input line 2.
 LaTeX Font Info:    No file PD1cmr.fd. on input line 2.
@@ -942,10 +942,10 @@ LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
  [3]
 \openout2 = `12-intro.aux'.
 
- (./12-intro.tex) [4
+ (./12-intro.tex [4
 
 
-]
+]) [5]
 \openout2 = `20-analysis.aux'.
 
  (./20-analysis.tex
@@ -974,34 +974,26 @@ LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textasteriskcentered' on input line 4.
 
-[5
+[6
 
 
 
 ]) (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/protected.c) [6]
+(./inc/src/protected.c) [7]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/cfg.c
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <5> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
 )
-<inc/dia/cfg-example.pdf, id=318, 713.66624pt x 612.2875pt>
+[8] <inc/dia/cfg-example.pdf, id=354, 713.66624pt x 612.2875pt>
 File: inc/dia/cfg-example.pdf Graphic file (type pdf)
 
-<use inc/dia/cfg-example.pdf> [7] [8]
+<use inc/dia/cfg-example.pdf> [9 <./inc/dia/cfg-example.pdf>] [10]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
@@ -1014,49 +1006,44 @@ LaTeX Font Warning: Font shape `OMS/ftm/m/it' undefined
 ) (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/annotated2.cpp)
+(./inc/src/annotated2.cpp [11])
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/annotated3.cpp [9]) [10]
+(./inc/src/annotated3.cpp) [12]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
-) (./inc/src/munge.c)
-[11] [12] [13]
-Underfull \hbox (badness 1337) in paragraph at lines 109--110
-[]\T2A/ftm/m/n/12 Метод ос^^?но^^?ван на кон^^?цеп^^?ции от^^?но^^?си^^?тель^^?
-но^^?го мно^^?же^^?ства бло^^?ки^^?ро^^?вок (ан^^?гл.
- []
-
+) (./inc/src/munge.c
+[13]) [14] [15] [16] [17]
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2004/10/17 UCS: Unicode data U+2200..U+22FF
-) [14]
+) [18]
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-33.def
 File: uni-33.def 2004/10/17 UCS: Unicode data U+2100..U+21FF
-) [15]) [16] [17 <./inc/dia/cfg-example.pdf>]
+) [19]) [20]
 \openout2 = `30-design.aux'.
 
- (./30-design.tex
-<inc/dia/idef0-black-box.pdf, id=507, 730.73pt x 371.3875pt>
+
+(./30-design.tex <inc/dia/idef0-black-box.pdf, id=520, 730.73pt x 371.3875pt>
 File: inc/dia/idef0-black-box.pdf Graphic file (type pdf)
 
 <use inc/dia/idef0-black-box.pdf>
-<inc/dia/idef0.pdf, id=508, 1713.40125pt x 881.2925pt>
+<inc/dia/idef0.pdf, id=521, 1713.40125pt x 881.2925pt>
 File: inc/dia/idef0.pdf Graphic file (type pdf)
  <use inc/dia/idef0.pdf>
-[18
+[21
 
 
 
- <./inc/dia/idef0-black-box.pdf>]
-<inc/dia/build-pathes.pdf, id=518, 998.73125pt x 1027.84pt>
+ <./inc/dia/idef0-black-box.pdf>] [22]
+<inc/dia/build-pathes.pdf, id=536, 998.73125pt x 1027.84pt>
 File: inc/dia/build-pathes.pdf Graphic file (type pdf)
 
-<use inc/dia/build-pathes.pdf> [19]
-<inc/dia/form-tables.pdf, id=526, 1890.06125pt x 795.97375pt>
+<use inc/dia/build-pathes.pdf>
+<inc/dia/form-tables.pdf, id=538, 1890.06125pt x 795.97375pt>
 File: inc/dia/form-tables.pdf Graphic file (type pdf)
 
-<use inc/dia/form-tables.pdf>
+<use inc/dia/form-tables.pdf> [23]
 Overfull \hbox (37.59302pt too wide) in alignment at lines 87--92
 [] [] [] 
  []
@@ -1076,27 +1063,72 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 96--97
 [] [] [] 
  []
 
-<inc/dia/aliases1.pdf, id=529, 202.7575pt x 173.64874pt>
+
+Underfull \hbox (badness 2503) in paragraph at lines 98--98
+\T2A/ftm/m/n/14.4 ча^^?сти опе^^?ра^^?то^^?ра при^^?сва^^?и^^?ва^^?
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 98--98
+\T2A/ftm/m/n/14.4 пе^^?ре^^?мен^^?ную $\OML/cmm/m/it/14.4 a$\T2A/ftm/m/n/14.4 .
+ То^^?гда по^^?сле
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 98--98
+\T2A/ftm/m/n/14.4 вы^^?пол^^?не^^?ния опе^^?ра^^?то^^?ра при^^?
+ []
+
+<inc/dia/aliases1.pdf, id=546, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases1.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases1.pdf>
-<inc/dia/aliases2.pdf, id=530, 202.7575pt x 60.225pt>
+Underfull \hbox (badness 1983) in paragraph at lines 100--100
+[]|\T2A/ftm/m/n/14.4 После вы^^?пол^^?не^^?ния опе^^?ра^^?то^^?
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 100--100
+\T2A/ftm/m/n/14.4 ся на пе^^?ре^^?ме^^?ную $\OML/cmm/m/it/14.4 q$ \T2A/ftm/m/n/
+14.4 из пра^^?
+ []
+
+<inc/dia/aliases2.pdf, id=547, 202.7575pt x 60.225pt>
 File: inc/dia/aliases2.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases2.pdf>
-<inc/dia/aliases3.pdf, id=531, 344.28625pt x 145.54375pt>
+<inc/dia/aliases3.pdf, id=548, 344.28625pt x 145.54375pt>
 File: inc/dia/aliases3.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases3.pdf>
-<inc/dia/aliases4.pdf, id=532, 202.7575pt x 173.64874pt>
+Underfull \hbox (badness 1107) in paragraph at lines 104--104
+\OML/cmm/m/it/14.4 q$ \T2A/ftm/m/n/14.4 из пра^^?вой ча^^?сти опе^^?ра^^?то^^?
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 104--104
+\T2A/ftm/m/n/14.4 ра при^^?сва^^?и^^?ва^^?ния, $\OML/cmm/m/it/14.4 b$ \T2A/ftm/
+m/n/14.4 - пе^^?ре^^?
+ []
+
+<inc/dia/aliases4.pdf, id=549, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases4.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases4.pdf>
-<inc/dia/aliases5.pdf, id=533, 202.7575pt x 173.64874pt>
+Underfull \hbox (badness 1735) in paragraph at lines 106--106
+[]|\T2A/ftm/m/n/14.4 Пусть пе^^?ре^^?мен^^?ная $\OML/cmm/m/it/14.4 p$ \T2A/ftm/
+m/n/14.4 из ле^^?
+ []
+
+<inc/dia/aliases5.pdf, id=550, 202.7575pt x 173.64874pt>
 File: inc/dia/aliases5.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases5.pdf>
-<inc/dia/aliases6.pdf, id=534, 344.28625pt x 173.64874pt>
+Underfull \hbox (badness 2503) in paragraph at lines 108--108
+\T2A/ftm/m/n/14.4 ча^^?сти опе^^?ра^^?то^^?ра при^^?сва^^?и^^?ва^^?
+ []
+
+<inc/dia/aliases6.pdf, id=551, 344.28625pt x 173.64874pt>
 File: inc/dia/aliases6.pdf Graphic file (type pdf)
 
 <use inc/dia/aliases6.pdf>
@@ -1104,35 +1136,58 @@ Overfull \hbox (37.59302pt too wide) in alignment at lines 97--109
 [] [] [] 
  []
 
-[20 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf> <./inc/dia/aliases3.pdf>]
-[21 <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.pdf> <./inc/dia/aliases6.pdf>]
-<inc/dia/build-relative-lockset.pdf, id=558, 999.735pt x 914.41624pt>
+[24 <./inc/dia/aliases1.pdf> <./inc/dia/aliases2.pdf>] [25 <./inc/dia/aliases3.
+pdf> <./inc/dia/aliases4.pdf> <./inc/dia/aliases5.pdf>] [26 <./inc/dia/aliases6
+.pdf>] <inc/dia/build-relative-lockset.pdf, id=580, 999.735pt x 914.41624pt>
 File: inc/dia/build-relative-lockset.pdf Graphic file (type pdf)
 
-<use inc/dia/build-relative-lockset.pdf> [22]
-<inc/dia/update-access.pdf, id=567, 999.735pt x 885.3075pt>
+<use inc/dia/build-relative-lockset.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]\T2A/ftm/m/n/14.4 Под обоб^^?ще^^?ни^^?ем от^^?но^^?си^^?тель^^?но^^?го мно^^
+?же^^?ства бло^^?ки^^?ро^^?вок
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 125--126
+\OML/cmm/m/it/14.4 lock[]summary\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 f\OT1/cmr
+/m/n/14.4 )$ \T2A/ftm/m/n/14.4 для неко^^?то^^?рой функ^^?ции $\OML/cmm/m/it/14
+.4 f$ \T2A/ftm/m/n/14.4 по^^?ни^^?ма^^?ет^^?ся от^^?но^^?си^^?тель^^?
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 125--126
+\T2A/ftm/m/n/14.4 осво^^?бож^^?ден^^?ных бло^^?ки^^?ро^^?вок из обоб^^?ще^^?ния
+. Та^^?ким об^^?ра^^?зом обоб^^?ще^^?ние
+ []
+
+[27] <inc/dia/update-access.pdf, id=589, 999.735pt x 885.3075pt>
 File: inc/dia/update-access.pdf Graphic file (type pdf)
 
-<use inc/dia/update-access.pdf>
-<inc/dia/generate-warnings.pdf, id=569, 1203.49625pt x 1198.4775pt>
+<use inc/dia/update-access.pdf> [28]
+<inc/dia/generate-warnings.pdf, id=596, 1203.49625pt x 1198.4775pt>
 File: inc/dia/generate-warnings.pdf Graphic file (type pdf)
 
-<use inc/dia/generate-warnings.pdf>) [23] [24 <./inc/dia/idef0.pdf>] [25 <./inc
-/dia/build-pathes.pdf>] [26 <./inc/dia/form-tables.pdf> <./inc/dia/build-relati
-ve-lockset.pdf>] [27 <./inc/dia/update-access.pdf>] [28 <./inc/dia/generate-war
+<use inc/dia/generate-warnings.pdf>) [29] [30 <./inc/dia/idef0.pdf>] [31 <./inc
+/dia/build-pathes.pdf>] [32 <./inc/dia/form-tables.pdf> <./inc/dia/build-relati
+ve-lockset.pdf>] [33 <./inc/dia/update-access.pdf>] [34 <./inc/dia/generate-war
 nings.pdf>]
 \openout2 = `40-impl.aux'.
 
- (./40-impl.tex [29
+ (./40-impl.tex
+Underfull \hbox (badness 1210) in paragraph at lines 16--17
+[]\T2A/ftm/m/n/14.4 Исходный код про^^?грам^^?мы яв^^?ля^^?ет^^?ся тек^^?сто^^?
+вым пред^^?став^^?ле^^?ни^^?ем
+ []
+
+[35
 
 
 
-]
-<inc/dia/sequence.pdf, id=614, 443.6575pt x 386.44376pt>
+] [36] <inc/dia/sequence.pdf, id=644, 443.6575pt x 386.44376pt>
 File: inc/dia/sequence.pdf Graphic file (type pdf)
 
-<use inc/dia/sequence.pdf> [30]
-<inc/dia/components.pdf, id=621, 776.9025pt x 243.91125pt>
+<use inc/dia/sequence.pdf> [37 <./inc/dia/sequence.pdf>]
+<inc/dia/components.pdf, id=654, 776.9025pt x 243.91125pt>
 File: inc/dia/components.pdf Graphic file (type pdf)
 
 <use inc/dia/components.pdf>
@@ -1141,96 +1196,154 @@ LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 89.
 
 (/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [31] [32 <./inc/dia/sequence.pdf> <./inc/dia/components.pdf>]
-Overfull \hbox (149.75815pt too wide) in paragraph at lines 116--116
-[]\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable <variab
-le-name> (<visibility>) on line <line>[] 
+) [38 <./inc/dia/components.pdf>]
+Overfull \hbox (260.97565pt too wide) in paragraph at lines 116--116
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when acccessing the variable <vari
+able-name> (<visibility>) on line <line>[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 128--128
-[]\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
-(global) on line 37[] 
+Overfull \hbox (122.11671pt too wide) in paragraph at lines 128--128
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when acccessing the variable buffe
+r (global) on line 37[] 
  []
 
 
-Overfull \hbox (32.46179pt too wide) in paragraph at lines 128--128
-[]\T2A/cmtt/m/n/12 WARNING: Race condition when acccessing the variable buffer 
-(global) on line 19[] 
+Overfull \hbox (122.11671pt too wide) in paragraph at lines 128--128
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when acccessing the variable buffe
+r (global) on line 19[] 
  []
 
-) [33]
+) [39] [40]
 \openout2 = `50-research.aux'.
 
  (./50-research.tex
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\T2A/ftm/m/n/14.4 Листинг 4.1 ^^V |Код ре^^?ше^^?ния за^^?да^^?чи "чи^^?та^^?
+тели-^^?писа^^?те^^?
+ []
+
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/readers-writers.c [34
+(./inc/src/readers-writers.c [41
 
 
 
-] [35])
-<inc/png/graphic1.pdf, id=726, 440.34915pt x 331.95619pt>
+] [42])
+<inc/png/graphic1.pdf, id=747, 440.34915pt x 331.95619pt>
 File: inc/png/graphic1.pdf Graphic file (type pdf)
 
-<use inc/png/graphic1.pdf>
-<inc/png/graphic2.pdf, id=727, 440.34915pt x 331.95619pt>
+<use inc/png/graphic1.pdf> [43]
+<inc/png/graphic2.pdf, id=781, 440.34915pt x 331.95619pt>
 File: inc/png/graphic2.pdf Graphic file (type pdf)
 
 <use inc/png/graphic2.pdf>
-<inc/png/graphic3.pdf, id=728, 440.34915pt x 331.95619pt>
+<inc/png/graphic3.pdf, id=782, 440.34915pt x 331.95619pt>
 File: inc/png/graphic3.pdf Graphic file (type pdf)
 
 <use inc/png/graphic3.pdf>
-<inc/png/graphic4.pdf, id=729, 440.34915pt x 331.95619pt>
+<inc/png/graphic4.pdf, id=783, 440.34915pt x 331.95619pt>
 File: inc/png/graphic4.pdf Graphic file (type pdf)
 
 <use inc/png/graphic4.pdf>
-<inc/png/graphic5.pdf, id=730, 440.34915pt x 331.95619pt>
+<inc/png/graphic5.pdf, id=784, 440.34915pt x 331.95619pt>
 File: inc/png/graphic5.pdf Graphic file (type pdf)
 
-<use inc/png/graphic5.pdf> [36] [37 <./inc/png/graphic1.pdf>] [38 <./inc/png/gr
-aphic2.pdf>] [39 <./inc/png/graphic3.pdf>] [40 <./inc/png/graphic4.pdf>]
-[41 <./inc/png/graphic5.pdf>]
+<use inc/png/graphic5.pdf> [44 <./inc/png/graphic1.pdf>] [45 <./inc/png/graphic
+2.pdf>] [46 <./inc/png/graphic3.pdf>] [47 <./inc/png/graphic4.pdf>] [48 <./inc/
+png/graphic5.pdf>]
+Overfull \hbox (78.26653pt too wide) in paragraph at lines 82--82
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable y (glo
+bal) on line 34[] 
+ []
+
+
+Overfull \hbox (78.26653pt too wide) in paragraph at lines 82--82
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable x (glo
+bal) on line 34[] 
+ []
+
+
+Overfull \hbox (78.26653pt too wide) in paragraph at lines 82--82
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable z (glo
+bal) on line 34[] 
+ []
+
+
+Overfull \hbox (70.95816pt too wide) in paragraph at lines 82--82
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable y (glo
+bal) on line 8[] 
+ []
+
+
+Overfull \hbox (70.95816pt too wide) in paragraph at lines 82--82
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable x (glo
+bal) on line 8[] 
+ []
+
+
+Overfull \hbox (70.95816pt too wide) in paragraph at lines 82--82
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable z (glo
+bal) on line 8[] 
+ []
+
+
+Overfull \hbox (70.95816pt too wide) in paragraph at lines 87--87
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable y (glo
+bal) on line 8[] 
+ []
+
+
+Overfull \hbox (70.95816pt too wide) in paragraph at lines 87--87
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable z (glo
+bal) on line 8[] 
+ []
+
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test1.c
-[42]) (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
+[49]) [50] (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test2.c [43]) [44]
+(./inc/src/test2.c [51])
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test3.c)
-Overfull \hbox (26.2883pt too wide) in paragraph at lines 110--110
-[]\T2A/cmtt/m/n/12 WARNING: Race condition when accessing the variable buffer (
-global) on line 37[] 
+Overfull \hbox (114.80835pt too wide) in paragraph at lines 110--110
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable buffer
+ (global) on line 37[] 
  []
 
 
-Overfull \hbox (26.2883pt too wide) in paragraph at lines 110--110
-[]\T2A/cmtt/m/n/12 WARNING: Race condition when accessing the variable buffer (
-global) on line 19[] 
+Overfull \hbox (114.80835pt too wide) in paragraph at lines 110--110
+[]\T2A/cmtt/m/n/14.4 WARNING: Race condition when accessing the variable buffer
+ (global) on line 19[] 
  []
 
-) [45] [46]
+[52]) [53]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [47
+ (./80-conclusion.tex)
+Underfull \hbox (badness 1102) in paragraph at lines 9--45
+[]\T2A/ftm/m/n/14.4 Основные ре^^?зуль^^?та^^?ты про^^?де^^?лан^^?ной ра^^?бо^^
+?ты от^^?ра^^?же^^?ны в ста^^?тьях
+ []
+
+[54
 
 
 
-]
+] [55]
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./rpz.bbl
-Underfull \hbox (badness 1448) in paragraph at lines 22--26
-[]\T2A/ftm/m/it/12 Пелед Д. Грам^^?берг О., Кларк Э.М. \T2A/ftm/m/n/12 Ве^^?ри^
-^?фи^^?ка^^?ция мо^^?де^^?лей про^^?грамм /
+Underfull \hbox (badness 1303) in paragraph at lines 29--36
+[]\T2A/ftm/m/it/14.4 Ковега Д.Н., Кри^^?щен^^?ко В.А. \T2A/ftm/m/n/14.4 Ис^^?по
+ль^^?зо^^?ва^^?ние си^^?сте^^?мы LLVM
  []
 
-)) [48
+)) [56
 
 
 
@@ -1242,28 +1355,28 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22881 strings out of 493848
- 367808 string characters out of 1152823
- 508231 words of memory out of 3000000
- 24979 multiletter control sequences out of 15000+50000
- 33654 words of font info for 80 fonts, out of 3000000 for 9000
+ 22837 strings out of 493848
+ 367276 string characters out of 1152823
+ 506305 words of memory out of 3000000
+ 24954 multiletter control sequences out of 15000+50000
+ 26634 words of font info for 61 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  60i,11n,75p,3467b,2317s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf
 /fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-c
-yrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-t
-ex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6
-w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (48 pages, 1060100 bytes).
+m/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/pub
+lic/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scala
+ble-cyrfonts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfo
+nts-tex/ftmri6w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1440.pfb>
+
+Output written on rpz.pdf (56 pages, 1059960 bytes).
 PDF statistics:
- 1093 PDF objects out of 1200 (max. 8388607)
- 487 named destinations out of 1000 (max. 500000)
+ 1125 PDF objects out of 1200 (max. 8388607)
+ 495 named destinations out of 1000 (max. 500000)
  546 words of extra memory for PDF output out of 10000 (max. 10000000)
 
