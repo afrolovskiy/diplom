@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  31 MAY 2014 18:43
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  1 JUN 2014 15:45
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -871,13 +871,7 @@ File: uni-4.def 2004/10/17 UCS: Unicode data U+0400..U+04FF
 )
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
-)
-Underfull \hbox (badness 1097) in paragraph at lines 2--3
-[]\T2A/ftm/m/n/12 В дан^^?ном до^^?ку^^?мен^^?те, яв^^?ля^^?ю^^?щим^^?ся рас^^?
-чјтно-^^?пояс^^?ни^^?тель^^?ной за^^?пис^^?кой к ква-
- []
-
-) [1
+)) [1
 
 
 
@@ -1267,7 +1261,7 @@ e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-c
 yrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-t
 ex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6
 w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (48 pages, 1059607 bytes).
+Output written on rpz.pdf (48 pages, 1059548 bytes).
 PDF statistics:
  1093 PDF objects out of 1200 (max. 8388607)
  487 named destinations out of 1000 (max. 500000)
