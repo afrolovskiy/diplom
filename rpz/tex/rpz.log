@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  1 JUN 2014 17:26
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  1 JUN 2014 18:57
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -1196,10 +1196,10 @@ aphic2.pdf>] [39 <./inc/png/graphic3.pdf>] [40 <./inc/png/graphic4.pdf>]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test1.c
-[42]) [43] (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
+[42]) (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 )
-(./inc/src/test2.c) [44]
+(./inc/src/test2.c [43]) [44]
 (/usr/share/texmf-texlive/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 1999/11/16 v1.0d Input encoding file
 ) (./inc/src/test3.c)
@@ -1244,11 +1244,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  22881 strings out of 493848
  367808 string characters out of 1152823
- 508235 words of memory out of 3000000
+ 508231 words of memory out of 3000000
  24979 multiletter control sequences out of 15000+50000
  33654 words of font info for 80 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 60i,11n,75p,3489b,2317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,11n,75p,3467b,2317s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf
 /fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public
@@ -1261,7 +1261,7 @@ e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/scalable-c
 yrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-t
 ex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmri6
 w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on rpz.pdf (48 pages, 1060160 bytes).
+Output written on rpz.pdf (48 pages, 1059873 bytes).
 PDF statistics:
  1093 PDF objects out of 1200 (max. 8388607)
  487 named destinations out of 1000 (max. 500000)
